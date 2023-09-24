@@ -2,7 +2,7 @@
 import { Container, Stack, Box, Typography, useTheme } from "@mui/material";
 import Grid from "@mui/material/Unstable_Grid2";
 
-function Footer(props) {
+function Footer(props: any) {
   console.log("props", props?.props)
   const footerStyles = props?.props;
 

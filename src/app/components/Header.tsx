@@ -4,7 +4,7 @@ import Grid from "@mui/material/Unstable_Grid2";
 import FullscreenNavigation from "./FullscreenNavigation";
 import React, { useState, useRef } from "react";
 
-function Header(props) {
+function Header(props: any) {
   console.log("props", props?.props)
   const theme = useTheme();
   const headerStyles = props?.props;
