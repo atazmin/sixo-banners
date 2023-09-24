@@ -88,8 +88,8 @@ let theme = createTheme({
     },
     tertiary: {
       // light: "#ff0000",
-      main: "#775B0D",
-      // dark: "#ff0000",
+      main: "#EAEAEA",
+      dark: "#979797",
       contrastText: "#787878",
     },
     yellow: {
@@ -134,22 +134,22 @@ let theme = createTheme({
       dark: "#214952",
     },
     background: {
-      default: "#dcdacb",
+      // default: "#dcdacb",
     },
     text: {
-      primary: "#1f1f1f",
+      // primary: "#1f1f1f",
     },
   },
   typography: {
     fontFamily: roboto.style.fontFamily,
     body1: {
-      fontFamily: roboto.style.fontFamily,
-      fontSize: 24,
+      // fontFamily: roboto.style.fontFamily,
+      // fontSize: 24,
     },
     body2: {
-      fontFamily: roboto.style.fontFamily,
-      fontSize: 20,
-      paddingTop: 18,
+      // fontFamily: roboto.style.fontFamily,
+      // fontSize: 20,
+      // paddingTop: 18,
     },
     primary: {
       fontFamily: roboto.style.fontFamily,
@@ -159,24 +159,32 @@ let theme = createTheme({
     },
     h1: {
       fontFamily: roboto.style.fontFamily,
-      fontSize: "6.6rem", //100px
+      // fontSize: "6.6rem", //100px
       // fontSize: 100,
-      fontWeight: 400,
-      lineHeight: 1,
+      // fontWeight: 400,
+      // lineHeight: 1,
       //letterSpacing: 0.8,
     },
     h2: {
       fontFamily: roboto.style.fontFamily,
-      fontSize: "4.5rem", // 72px
+      // fontSize: "4.5rem", // 72px
       // color: "red",
-      fontWeight: 400,
-      lineHeight: 1,
+      // fontWeight: 400,
+      // lineHeight: 1,
       //letterSpacing: 0.7,
     },
     h3: {
       fontFamily: roboto.style.fontFamily,
-      // fontSize: "3rem",
-      fontWeight: 400,
+      fontSize: "1.5rem",
+      fontWeight: 700,
+    },
+    h4: {
+      fontFamily: roboto.style.fontFamily,
+      fontSize: "1.5rem",
+      fontWeight: 700,
+      borderBottom: "1px solid #979797",
+      marginBottom: 24,
+      paddingBottom: 12,
     },
     // action: {
     //   color: "#775B0D",

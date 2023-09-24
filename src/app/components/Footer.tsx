@@ -2,22 +2,38 @@
 import { Container, Stack, Box, Typography, useTheme } from "@mui/material";
 import Grid from "@mui/material/Unstable_Grid2";
 
-function Footer() {
+function Footer(props) {
+  console.log("props", props?.props)
+  const footerStyles = props?.props;
+
   const theme = useTheme();
   return (
     <Container
+      component="footer"
       maxWidth={false}
       disableGutters={true}
       sx={{
-        backgroundColor: "red",
-        ml: "200px",
-        // backgroundImage: "url('/app/main-background.jpg')",
-        // backgroundSize: "cover",
-        // backgroundAttachment: "fixed",
-        // position: "fixed",
+        ...footerStyles,
       }}
     >
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id perspiciatis debitis rem minima ducimus totam pariatur vel asperiores et hic?
+      <Stack
+        flexDirection="row"
+        justifyContent="flex-end"
+        sx={{
+          p: 2,
+        }}
+      >
+        <Box
+          component="img"
+          src="/app/Logo.svg"
+          alt="alt"
+          sx={{
+            width: "63px",
+            height: "20px",
+            objectFit: "contain",
+          }}
+        />
+      </Stack>
     </Container>
   );
 }

@@ -2,7 +2,7 @@ import ThemeRegistry from "./ThemeRegistry";
 import type { Metadata } from "next";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import { Box } from "@mui/material";
+import { Box, Stack } from "@mui/material";
 
 export const metadata: Metadata = {
   title: "",
@@ -24,6 +24,21 @@ export const metadata: Metadata = {
   },
 };
 
+const headerWidth = "240px";
+const headerStyles = {
+  width: headerWidth,
+};
+const mainStyles = {
+  ml: headerWidth, 
+  p: 4,
+  flexGrow: 1,
+  width: `calc(100% - ${headerWidth})`,
+};
+const footerStyles = {
+  ml: headerWidth,
+  width: `calc(100% - ${headerWidth})`,
+};
+
 export default function RootLayout({
   children,
 }: {
@@ -32,18 +47,19 @@ export default function RootLayout({
   return (
     <html lang="en">
       <meta name="robots" content="noindex,nofollow" />
-      <body>
+      <Stack component="body" sx={{
+        minHeight: "100vh",
+      }}>
         <ThemeRegistry options={{ key: "mui" }}>
-          <Header />
+          <Header props={headerStyles} />
           <Box component="main" sx={{
-            border: "3px solid brown",
-            ml: "200px",
+            ...mainStyles,            
           }}>
           {children}
           </Box>
-          <Footer />
+          <Footer props={footerStyles} />
         </ThemeRegistry>
-      </body>
+      </Stack>
     </html>
   );
 }
