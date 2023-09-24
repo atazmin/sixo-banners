@@ -1,0 +1,30 @@
+{
+    "routes": [
+      {
+        "src": "/[^.]+",
+        "dest": "/",
+        "status": 200,
+        "has": [
+          {
+            "type": "header",
+            "key": "authorization",
+            "value": "Basic NGRtaW46dGVzdHB3ZDEyMw=="
+          }
+        ]
+      },
+      {
+        "src": "/.*",
+        "dest": "/401",
+        "status": 401,
+        "headers": { "www-authenticate": "Basic realm=\"staging\"" },
+        "missing": [
+          {
+            "type": "header",
+            "key": "authorization",
+            "value": "Basic NGRtaW46dGVzdHB3ZDEyMw=="
+          }
+        ]
+      }
+    ]
+  }
+  
