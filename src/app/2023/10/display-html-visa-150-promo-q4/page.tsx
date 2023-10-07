@@ -20,10 +20,10 @@ export default function Home() {
       <Breadcrumbs pageName="Display HTML - Visa $150 Promo (Q4 2023)" />
       <Grid container rowSpacing={8}>
         <Grid xs={12}>
-          <Typography sx={{ ...bannerStyles.heading }}>728X90</Typography>
+          <Typography sx={{ ...bannerStyles.heading }}>728x90</Typography>
           <MuiLink
             component="a"
-            href="/app/banner/2023/10/display-html-visa-150-promo-q4/728x90/html/728X90/index.html"
+            href="/app/banner/2023/10/display-html-visa-150-promo-q4/728x90/html/728x90/index.html"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
