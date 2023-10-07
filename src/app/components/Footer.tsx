@@ -1,19 +1,21 @@
 "use client";
-import { Container, Stack, Box, Typography, useTheme } from "@mui/material";
-import Grid from "@mui/material/Unstable_Grid2";
+import { Container, Stack, Box, useTheme } from "@mui/material";
+import Link from "@/app/components/Link";
+import { globalStyles } from "@/app/components/Styles";
 
-function Footer(props: any) {
-  console.log("props", props?.props)
-  const footerStyles = props?.props;
-
+function Footer() {
   const theme = useTheme();
+
   return (
     <Container
       component="footer"
       maxWidth={false}
       disableGutters={true}
       sx={{
-        ...footerStyles,
+        [theme.breakpoints.up("md")]: {
+          ml: globalStyles.headerWidth,
+          width: `calc(100% - ${globalStyles.headerWidth})`,
+        },
       }}
     >
       <Stack
@@ -23,16 +25,18 @@ function Footer(props: any) {
           p: 2,
         }}
       >
-        <Box
-          component="img"
-          src="/app/Logo.svg"
-          alt="alt"
-          sx={{
-            width: "63px",
-            height: "20px",
-            objectFit: "contain",
-          }}
-        />
+        <Link href="/">
+          <Box
+            component="img"
+            src="/app/Logo.svg"
+            alt="alt"
+            sx={{
+              width: "63px",
+              height: "20px",
+              objectFit: "contain",
+            }}
+          />
+        </Link>
       </Stack>
     </Container>
   );

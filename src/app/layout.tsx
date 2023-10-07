@@ -1,9 +1,9 @@
-import ThemeRegistry from "./ThemeRegistry";
 import type { Metadata } from "next";
+import { Stack } from "@mui/material";
+import ThemeRegistry from "./ThemeRegistry";
 import Header from "./components/Header";
+import Main from "./components/Main";
 import Footer from "./components/Footer";
-import { Box, Stack } from "@mui/material";
-
 export const metadata: Metadata = {
   title: "",
   description: "",
@@ -24,21 +24,6 @@ export const metadata: Metadata = {
   },
 };
 
-const headerWidth = "240px";
-const headerStyles = {
-  width: headerWidth,
-};
-const mainStyles = {
-  ml: headerWidth, 
-  p: 4,
-  flexGrow: 1,
-  width: `calc(100% - ${headerWidth})`,
-};
-const footerStyles = {
-  ml: headerWidth,
-  width: `calc(100% - ${headerWidth})`,
-};
-
 export default function RootLayout({
   children,
 }: {
@@ -47,17 +32,16 @@ export default function RootLayout({
   return (
     <html lang="en">
       <meta name="robots" content="noindex,nofollow" />
-      <Stack component="body" sx={{
-        minHeight: "100vh",
-      }}>
+      <Stack
+        component="body"
+        sx={{
+          minHeight: "100vh",
+        }}
+      >
         <ThemeRegistry options={{ key: "mui" }}>
-          <Header props={headerStyles} />
-          <Box component="main" sx={{
-            ...mainStyles,            
-          }}>
-          {children}
-          </Box>
-          <Footer props={footerStyles} />
+          <Header />
+          <Main>{children}</Main>
+          <Footer />
         </ThemeRegistry>
       </Stack>
     </html>

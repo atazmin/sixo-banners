@@ -13,6 +13,7 @@ import {
   Box,
   Typography,
   useTheme,
+  useMediaQuery,
   alpha,
   LinearProgress,
   Card,
@@ -33,22 +34,14 @@ import gsap from "gsap";
 import Scrollbar from "smooth-scrollbar";
 import OverscrollPlugin from "smooth-scrollbar/plugins/overscroll";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
-import Link from "next/link";
+import Link from "@/app/components/Link";
 gsap.registerPlugin(ScrollTrigger);
 
 
-
 const sectionContainerStyles = {
-  //border: "3px solid brown",
   position: "relative",
   overflow: "hidden",
   minHeight: "100vh",
-  // py: 10
-};
-
-const sectionGridStyles = {
-  // border: "3px solid green",
-  // minHeight: "inherit",
 };
 
 const Section = styled(Box)(({ theme }) => ({
@@ -57,22 +50,15 @@ const Section = styled(Box)(({ theme }) => ({
   },
 }));
 
-const StyledLink = styled(Link)(({ theme }) => ({
-  color: theme.palette.common.black,
-  textDecoration: "none",
-  ":hover": {
-    textDecoration: "underline",
-  }
-}));
-
 export default function Home() {
   const theme = useTheme();
+  const breakpointUpMd = useMediaQuery(theme.breakpoints.up("md"));
   const StyledImage = styled(Image)(({ theme }) => ({}));
 
   const [progress, setProgress] = useState<number>(0);
   const progressRef = useRef(null);
   const pageContainerRef = useRef(null);
-  
+
   useLayoutEffect(() => {
     let ctx = gsap.context(() => {
       const progressElement = progressRef.current;
@@ -91,7 +77,7 @@ export default function Home() {
     });
 
     return () => ctx.revert();
-  }, []); 
+  }, []);
 
   return (
     <>
@@ -123,7 +109,7 @@ export default function Home() {
       {/* ------------------------- 2023 ------------------------- */}
       <Container
         maxWidth={false}
-        disableGutters={true}
+        disableGutters={breakpointUpMd}
       >
         <Typography component="h1" variant="h3" sx={{
           mb: 10,
@@ -133,10 +119,10 @@ export default function Home() {
           component="section"
           sx={{}}
         >
-          <Typography component="h3" variant="h4">2023</Typography>          
-          <StyledLink href="/banners/2023/09/chiefs-checking-promo-september">Chiefs Checking Promo</StyledLink> – September
+          <Typography component="h3" variant="h4">2023</Typography>
+          <Link href="/2023/10/display-html-visa-150-promo-q4">Display HTML - Visa $150 Promo (Q4 2023)</Link> – October
         </Section>
-      </Container>     
+      </Container>
     </>
   );
 }
