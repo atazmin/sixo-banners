@@ -35,10 +35,10 @@ const bannerStyles = {
     borderWidth: "1px",
     borderColor: "#979797",
     willChange: "transform",
-    transition: "transform .05s ease-out",
+    transition: "transform .125s ease-out",
 
     ":hover": {
-      transform: "scale(1.005)",
+      transform: "scale(1.025)",
     },
   },
   image: {

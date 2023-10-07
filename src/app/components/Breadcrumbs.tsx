@@ -1,7 +1,6 @@
 import {
   Typography,
   useTheme,
-  Link as MuiLink,
   Breadcrumbs as MuiBreadcrumbs,
   Divider,
 } from "@mui/material";
@@ -9,7 +8,6 @@ import KeyboardArrowLeftIcon from "@mui/icons-material/KeyboardArrowLeft";
 import Link from "@/app/components/Link";
 
 function Breadcrumbs({ pageName }: { pageName: string }) {
-  console.log("pageName", pageName);
   const theme = useTheme();
 
   return (
