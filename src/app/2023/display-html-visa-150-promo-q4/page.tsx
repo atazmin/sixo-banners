@@ -43,7 +43,7 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>160x600</Typography>
           <MuiLink
             component="a"
-            href="/app/banner/2023/display-html-visa-150-promo-q4/160x600/index.html"
+            href="/app/banner/2023/display-html-visa-150-promo-q4/160x600/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
@@ -61,7 +61,7 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>300x600</Typography>
           <MuiLink
             component="a"
-            href="/app/banner/2023/display-html-visa-150-promo-q4/300x600/index.html"
+            href="/app/banner/2023/display-html-visa-150-promo-q4/300x600/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
@@ -79,7 +79,7 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>300x250</Typography>
           <MuiLink
             component="a"
-            href="/app/banner/2023/display-html-visa-150-promo-q4/300x250/index.html"
+            href="/app/banner/2023/display-html-visa-150-promo-q4/300x250/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
@@ -96,7 +96,7 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>320x50</Typography>
           <MuiLink
             component="a"
-            href="/app/banner/2023/display-html-visa-150-promo-q4/320x50/index.html"
+            href="/app/banner/2023/display-html-visa-150-promo-q4/320x50/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
@@ -113,7 +113,7 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>300x50</Typography>
           <MuiLink
             component="a"
-            href="/app/banner/2023/display-html-visa-150-promo-q4/300x50/index.html"
+            href="/app/banner/2023/display-html-visa-150-promo-q4/300x50/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
