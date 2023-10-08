@@ -1,6 +1,6 @@
 import {
   Roboto
-} from "@next/font/google";
+} from "next/font/google";
 import { createTheme, responsiveFontSizes, alpha } from "@mui/material/styles";
 import { Palette } from "@mui/icons-material";
 
