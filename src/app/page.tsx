@@ -30,7 +30,6 @@ export default function Home() {
       >
         Online Media
       </Typography>
-
       <Section component="section" sx={{}}>
         <Typography component="h3" variant="h4">
           2023
