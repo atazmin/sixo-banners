@@ -18,10 +18,10 @@
         "name": "next"
       }
     ],
-    "baseUrl": ".",
+    // "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"],
-      "@/public/*": ["./public/*"]
+      // "@/public/*": ["./public/*"]
     },
     "sourceMap": true
   },
