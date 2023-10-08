@@ -23,13 +23,13 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>728x90</Typography>
           <MuiLink
             component="a"
-            href="/app/banner/2023/10/display-html-visa-150-promo-q4/728x90/html/728x90/index.html"
+            href="/app/banner/2023/display-html-visa-150-promo-q4/728x90/index.html"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
             <Box
               component="img"
-              src="/app/banner/2023/10/display-html-visa-150-promo-q4/728x90/static/728x90.png"
+              src="/app/banner/2023/display-html-visa-150-promo-q4/728x90/728x90.png"
               alt="alt"
               sx={{
                 ...bannerStyles.image,
@@ -43,13 +43,13 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>160x600</Typography>
           <MuiLink
             component="a"
-            href="/app/banner/2023/10/display-html-visa-150-promo-q4/160x600/html/160x600/index.html"
+            href="/app/banner/2023/display-html-visa-150-promo-q4/160x600/index.html"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
             <Box
               component="img"
-              src="/app/banner/2023/10/display-html-visa-150-promo-q4/160x600/static/160x600.png"
+              src="/app/banner/2023/display-html-visa-150-promo-q4/160x600/160x600.png"
               alt="alt"
               sx={{
                 ...bannerStyles.image,
@@ -61,13 +61,13 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>300x600</Typography>
           <MuiLink
             component="a"
-            href="/app/banner/2023/10/display-html-visa-150-promo-q4/300x600/html/300x600/index.html"
+            href="/app/banner/2023/display-html-visa-150-promo-q4/300x600/index.html"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
             <Box
               component="img"
-              src="/app/banner/2023/10/display-html-visa-150-promo-q4/300x600/static/300x600.png"
+              src="/app/banner/2023/display-html-visa-150-promo-q4/300x600/300x600.png"
               alt="alt"
               sx={{
                 ...bannerStyles.image,
@@ -79,13 +79,13 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>300x250</Typography>
           <MuiLink
             component="a"
-            href="/app/banner/2023/10/display-html-visa-150-promo-q4/300x250/html/300x250/index.html"
+            href="/app/banner/2023/display-html-visa-150-promo-q4/300x250/index.html"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
             <Box
               component="img"
-              src="/app/banner/2023/10/display-html-visa-150-promo-q4/300x250/static/300x250.png"
+              src="/app/banner/2023/display-html-visa-150-promo-q4/300x250/300x250.png"
               alt="alt"
               sx={{
                 ...bannerStyles.image,
@@ -96,13 +96,13 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>320x50</Typography>
           <MuiLink
             component="a"
-            href="/app/banner/2023/10/display-html-visa-150-promo-q4/320x50/html/320x50/index.html"
+            href="/app/banner/2023/display-html-visa-150-promo-q4/320x50/index.html"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
             <Box
               component="img"
-              src="/app/banner/2023/10/display-html-visa-150-promo-q4/320x50/static/320x50.png"
+              src="/app/banner/2023/display-html-visa-150-promo-q4/320x50/320x50.png"
               alt="alt"
               sx={{
                 ...bannerStyles.image,
@@ -113,13 +113,13 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>300x50</Typography>
           <MuiLink
             component="a"
-            href="/app/banner/2023/10/display-html-visa-150-promo-q4/300x50/html/300x50/index.html"
+            href="/app/banner/2023/display-html-visa-150-promo-q4/300x50/index.html"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
             <Box
               component="img"
-              src="/app/banner/2023/10/display-html-visa-150-promo-q4/300x50/static/300x50.png"
+              src="/app/banner/2023/display-html-visa-150-promo-q4/300x50/300x50.png"
               alt="alt"
               sx={{
                 ...bannerStyles.image,

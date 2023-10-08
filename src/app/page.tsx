@@ -34,7 +34,7 @@ export default function Home() {
         <Typography component="h3" variant="h4">
           2023
         </Typography>
-        <Link href="/2023/10/display-html-visa-150-promo-q4/">
+        <Link href="/2023/display-html-visa-150-promo-q4/">
           Display HTML - Visa $150 Promo (Q4 2023)
         </Link>
         – October
