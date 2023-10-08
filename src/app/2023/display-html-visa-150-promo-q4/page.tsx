@@ -23,7 +23,7 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>728x90</Typography>
           <MuiLink
             component="a"
-            href="/app/banner/2023/display-html-visa-150-promo-q4/728x90/index.html"
+            href="/app/banner/2023/display-html-visa-150-promo-q4/728x90/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
