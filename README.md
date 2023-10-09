@@ -35,7 +35,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Project location
 
-[https://4admin:Pwd123@sixo-one-banners.vercel.app/ ](https://4admin:Pwd123@sixo-one-banners.vercel.app/) 
+[https://4admin:Pwd123@sixo-banners.vercel.app/ ](https://4admin:Pwd123@sixo-banners.vercel.app/) 
 
 ```bash
 Username: 4admin
