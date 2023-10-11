@@ -10,7 +10,7 @@ function Header() {
   return (
     <Stack
       component="header"
-      alignItems={{xs: "center"}}
+      alignItems={{ xs: "center" }}
       sx={{
         p: theme.spacing(2),
         mb: 2,
@@ -19,7 +19,7 @@ function Header() {
           zIndex: 100,
           top: 0,
           left: 0,
-          backgroundColor: theme.palette.tertiary.main,
+          backgroundColor: theme.palette.grey[200],
           width: globalStyles.headerWidth,
           height: "100%",
         },

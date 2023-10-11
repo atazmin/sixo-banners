@@ -14,7 +14,7 @@ import { bannerStyles } from "@/app/components/Styles";
 export default function Home() {
   const theme = useTheme();
   const breakpointUpMd = useMediaQuery(theme.breakpoints.up("md"));
-  
+
   return (
     <Container maxWidth={false} disableGutters={breakpointUpMd} sx={{}}>
       <Breadcrumbs pageName="Display HTML - Visa $150 Promo (Q4 2023)" />

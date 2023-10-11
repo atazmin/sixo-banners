@@ -5,9 +5,18 @@ import {
   Typography,
   useTheme,
   useMediaQuery,
+  List,
+  IconButton,
+  ListItem,
+  ListItemText,
+  ListItemButton,
+  Button,
+  Link as MuiLink,
 } from "@mui/material";
+import DownloadIcon from "@mui/icons-material/Download";
 import { styled } from "@mui/system";
 import Link from "@/app/components/Link";
+import { data } from "@/app/data";
 
 const Section = styled(Box)(({ theme }) => ({
   [theme.breakpoints.up("md")]: {
@@ -19,6 +28,7 @@ export default function Home() {
   const theme = useTheme();
   const breakpointUpMd = useMediaQuery(theme.breakpoints.up("md"));
 
+  console.log("data", data);
   return (
     <Container maxWidth={false} disableGutters={breakpointUpMd}>
       <Typography
@@ -30,14 +40,38 @@ export default function Home() {
       >
         Online Media
       </Typography>
-      <Section component="section" sx={{}}>
+      <Section component="section">
         <Typography component="h3" variant="h4">
           2023
         </Typography>
-        <Link href="/2023/display-html-visa-150-promo-q4/">
-          Display HTML - Visa $150 Promo (Q4 2023)
-        </Link>
-        – October
+        <List sx={{ width: "100%", bgcolor: "background.paper" }}>
+          {data.map((item, index) => (
+            <ListItem
+              key={index}
+              disableGutters
+              divider
+              sx={{ justifyContent: "space-between" }}
+            >
+              <Link href={item.dir}>{item.name}</Link>
+              <MuiLink
+                component="a"
+                href={item.download}
+                target="_blank"
+                sx={{
+                  display: "inline-flex",
+                  alignItems: "center",
+                  color: "inherit",
+                  textDecoration: "none",
+                  ":hover": {
+                    textDecoration: "underline",
+                  },
+                }}
+              >
+                Download Package <DownloadIcon />
+              </MuiLink>
+            </ListItem>
+          ))}
+        </List>
       </Section>
     </Container>
   );
