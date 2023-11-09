@@ -28,7 +28,7 @@ function Header() {
       <Link href="/">
         <Box
           component="img"
-          src="/app/CACU_Sta_RGB.svg"
+          src="/CACU_Sta_RGB.svg"
           alt="alt"
           sx={{
             alignSelf: "center",

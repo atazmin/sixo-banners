@@ -28,7 +28,7 @@ function Footer() {
         <Link href="/">
           <Box
             component="img"
-            src="/app/Logo.svg"
+            src="/Logo.svg"
             alt="alt"
             sx={{
               width: "63px",
