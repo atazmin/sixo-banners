@@ -16,6 +16,12 @@ export const data = [
   
   },
   {
+    name: "Display HTML - CD Programmatic - July 25",
+    dir: "/2023/display-html-cd-programmatic/",
+    download:"/2023/display-html-cd-programmatic/Archive.zip",
+  
+  },
+  {
     name: "STL Checking Promo - Display HTML Refresh - Jun. 16",
     dir: "/2023/stl-checking-promo-display-html-refresh/",
     download:"/2023/stl-checking-promo-display-html-refresh/Archive.zip",
