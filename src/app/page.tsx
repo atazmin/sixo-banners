@@ -23,8 +23,8 @@ const Section = styled(Box)(({ theme }) => ({
 export default function Home() {
   const theme = useTheme();
   const breakpointUpMd = useMediaQuery(theme.breakpoints.up("md"));
-
-  console.log("data", data);
+  const totalItems = data.length;
+  
   return (
     <Container maxWidth={false} disableGutters={breakpointUpMd}>
       <Typography
@@ -47,8 +47,8 @@ export default function Home() {
               disableGutters
               divider
               sx={{ justifyContent: "space-between" }}
-            >
-              <Link href={item.dir}>{item.name}</Link>
+            >              
+              <Link href={item.dir}><Typography component="span" sx={{mr: 1, fontWeight: 300, fontSize: ".75rem"}}>{totalItems - index}</Typography>{item.name}</Link>
               <MuiLink
                 component="a"
                 href={item.download}
