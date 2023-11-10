@@ -22,9 +22,27 @@ export const data = [
   
   },
   {
+    name: "Display HTML -  STL Chiefs Checking Promo A/B Testing - Sep. 13",
+    dir: "/2023/display-html-stl-chiefs-checking-promo-a-b-testing/",
+    download:"/2023/display-html-stl-chiefs-checking-promo-a-b-testing/Archive.zip",
+  
+  },
+  {
     name: "STL Checking Promo - Display HTML Refresh - Jun. 16",
     dir: "/2023/stl-checking-promo-display-html-refresh/",
     download:"/2023/stl-checking-promo-display-html-refresh/Archive.zip",
+  
+  },
+  {
+    name: "Display HTML - Always On Cashback Free Checking - Jun. 15",
+    dir: "/2023/display-html-always-on-cashback-free-checking/",
+    download:"/2023/display-html-always-on-cashback-free-checking/Archive.zip",
+  
+  },
+  {
+    name: "Display HTML - High-Interest Savings - Jun. 14",
+    dir: "/2023/display-html-high-interest-savings/",
+    download:"/2023/display-html-high-interest-savings/Archive.zip",
   
   },
   {
