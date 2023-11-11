@@ -10,6 +10,11 @@ export const data = [
     download:"/2023/display-html-banners-always-on-mortgage/Archive.zip",
   },
   {
+    name: "Display HTML - STL Special Rate CD Promo - Oct. 25",
+    dir: "/2023/display-html-stl-special-rate-cd-promo/",
+    download:"/2023/display-html-stl-special-rate-cd-promo/Archive.zip",
+  },
+  {
     name: "Display HTML - Visa $150 Promo (Q4 2023) - Oct. 24",
     dir: "/2023/display-html-visa-150-promo-q4/",
     download:"/2023/display-html-visa-150-promo-q4/Archive.zip",
@@ -22,9 +27,26 @@ export const data = [
   
   },
   {
+    name: "Display HTML Banners - Always On Mortgage - Sep. 22",
+    dir: "/2023/display-html-banners-always-on-mortgage-st-louis/",
+    download:"/2023/display-html-banners-always-on-mortgage-st-louis/Archive.zip",  
+  },
+  {
     name: "Display HTML -  STL Chiefs Checking Promo A/B Testing - Sep. 13",
     dir: "/2023/display-html-stl-chiefs-checking-promo-a-b-testing/",
     download:"/2023/display-html-stl-chiefs-checking-promo-a-b-testing/Archive.zip",
+  
+  },
+  {
+    name: "Display HTML ads - STL Cashback Free Checking Update A|B Testing - Sep. 11",
+    dir: "/2023/display-html-ads-stl-cashback-free-checking-update-a-b-testing/",
+    download:"/2023/display-html-ads-stl-cashback-free-checking-update-a-b-testing/Archive.zip",
+  
+  },
+  {
+    name: "Display HTML5 - Chiefs Checking - Fall '23 - $200 off - Sep. 6",
+    dir: "/2023/display-html5-chiefs-checking-fall-23-200-off/",
+    download:"/2023/display-html5-chiefs-checking-fall-23-200-off/Archive.zip",
   
   },
   {
@@ -43,6 +65,12 @@ export const data = [
     name: "Display HTML - High-Interest Savings - Jun. 14",
     dir: "/2023/display-html-high-interest-savings/",
     download:"/2023/display-html-high-interest-savings/Archive.zip",
+  
+  },
+  {
+    name: "Display HTML - Locked Rate Money Market - Jun. 5",
+    dir: "/2023/display-html-locked-rate-money-market/",
+    download:"/2023/display-html-locked-rate-money-market/Archive.zip",
   
   },
   {

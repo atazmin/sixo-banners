@@ -16,7 +16,7 @@ export default function Home() {
   const breakpointUpMd = useMediaQuery(theme.breakpoints.up("md"));
 
   return (
-    <Container maxWidth={false} disableGutters={breakpointUpMd}>
+    <Container maxWidth={false} disableGutters={breakpointUpMd} sx={{}}>
       <Breadcrumbs pageName="Display HTML - Always On Cashback Free Checking - Jun. 15" />
       <Grid container rowSpacing={8}>
         <Grid xs={12}>
