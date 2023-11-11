@@ -4,11 +4,7 @@ export const data = [
     dir: "/23/display-html5-chiefs-checking-nov-2023-refresh/",
     download:"/23/display-html5-chiefs-checking-nov-2023-refresh/Archive.zip",
   },
-  {
-    name: "Display HTML Banners - Always On Mortgage - Sep. 22",
-    dir: "/23/display-html-banners-always-on-mortgage/",
-    download:"/23/display-html-banners-always-on-mortgage/Archive.zip",
-  },
+
   {
     name: "Display HTML - STL Special Rate CD Promo - Oct. 25",
     dir: "/23/display-html-stl-special-rate-cd-promo/",
@@ -19,6 +15,11 @@ export const data = [
     dir: "/23/display-html-visa-150-promo-q4/",
     download:"/23/display-html-visa-150-promo-q4/Archive.zip",
   
+  },
+  {
+    name: "Display HTML Banners - Always On Mortgage - Oct. 22",
+    dir: "/23/display-html-banners-always-on-mortgage/",
+    download:"/23/display-html-banners-always-on-mortgage/Archive.zip",
   },
   {
     name: "Display HTML - CD Programmatic - July 25",
