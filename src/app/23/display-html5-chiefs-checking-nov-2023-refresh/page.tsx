@@ -23,7 +23,7 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>728x90</Typography>
           <MuiLink
             component="a"
-            href="/23/display-html5-chiefs-checking-nov-2023-refresh/728x90/index.html"
+            href="/23/display-html5-chiefs-checking-nov-2023-refresh/728x90/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
@@ -43,7 +43,7 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>160x600</Typography>
           <MuiLink
             component="a"
-            href="/23/display-html5-chiefs-checking-nov-2023-refresh/160x600/index.html"
+            href="/23/display-html5-chiefs-checking-nov-2023-refresh/160x600/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
@@ -61,7 +61,7 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>300x600</Typography>
           <MuiLink
             component="a"
-            href="/23/display-html5-chiefs-checking-nov-2023-refresh/300x600/index.html"
+            href="/23/display-html5-chiefs-checking-nov-2023-refresh/300x600/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
@@ -79,7 +79,7 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>300x250</Typography>
           <MuiLink
             component="a"
-            href="/23/display-html5-chiefs-checking-nov-2023-refresh/300x250/index.html"
+            href="/23/display-html5-chiefs-checking-nov-2023-refresh/300x250/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
@@ -96,7 +96,7 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>320x50</Typography>
           <MuiLink
             component="a"
-            href="/23/display-html5-chiefs-checking-nov-2023-refresh/320x50/index.html"
+            href="/23/display-html5-chiefs-checking-nov-2023-refresh/320x50/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
@@ -113,7 +113,7 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>300x50</Typography>
           <MuiLink
             component="a"
-            href="/23/display-html5-chiefs-checking-nov-2023-refresh/300x50/index.html"
+            href="/23/display-html5-chiefs-checking-nov-2023-refresh/300x50/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
