@@ -23,7 +23,7 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>160x600</Typography>
           <MuiLink
             component="a"
-            href="/23/display-html5-chiefs-checking-fall-23-200-off/160x600/index.html"
+            href="/23/display-html5-chiefs-checking-fall-23-200-off/160x600/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
@@ -41,7 +41,7 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>300x600</Typography>
           <MuiLink
             component="a"
-            href="/23/display-html5-chiefs-checking-fall-23-200-off/300x600/index.html"
+            href="/23/display-html5-chiefs-checking-fall-23-200-off/300x600/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
@@ -59,7 +59,7 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>300x250</Typography>
           <MuiLink
             component="a"
-            href="/23/display-html5-chiefs-checking-fall-23-200-off/300x250/index.html"
+            href="/23/display-html5-chiefs-checking-fall-23-200-off/300x250/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
