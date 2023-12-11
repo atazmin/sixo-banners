@@ -4,7 +4,11 @@ export const data = [
     dir: "/23/display-html5-chiefs-checking-nov-2023-refresh/",
     download:"/23/display-html5-chiefs-checking-nov-2023-refresh/Archive.zip",
   },
-
+  {
+    name: "Choose Your Term CD - Display HTML - Nov. 8",
+    dir: "/23/choose-your-term-cd-display-html/",
+    download:"/23/choose-your-term-cd-display-html/Archive.zip",
+  },
   {
     name: "Display HTML - STL Special Rate CD Promo - Oct. 25",
     dir: "/23/display-html-stl-special-rate-cd-promo/",
@@ -77,8 +81,7 @@ export const data = [
   {
     name: "Display HTML - Student Loan Programmatic - Parents of Undergrads - May 18",
     dir: "/23/display-html-student-loan-programmatic-parents-of-undergrads/",
-    download:"/23/display-html-student-loan-programmatic-parents-of-undergrads/Archive.zip",
-  
+    download:"/23/display-html-student-loan-programmatic-parents-of-undergrads/Archive.zip",  
   },
   {
     name: "Display HTML - Student Loan Programmatic - Adult Grad Students - May 18",
@@ -90,6 +93,21 @@ export const data = [
     name: "Display HTML - Hybrid Home Equity Programmatic - May 12",
     dir: "/23/display-html-hybrid-home-equity-programmatic/",
     download:"/23/display-html-hybrid-home-equity-programmatic/Archive.zip",
+  },
+  {
+    name: "OLA Visa Signature $200 promo (Q1 2023) - March 9",
+    dir: "/23/ola-visa-signature-200-promo-q1-2023/",
+    download:"/23/ola-visa-signature-200-promo-q1-2023/Archive.zip",
+  },
+  {
+    name: "KC Cashback Promo April 2023 - April 12",
+    dir: "/23/display-kc-cashback-promo-april-2023/",
+    download:"/23/display-kc-cashback-promo-april-2023/Archive.zip",
+  },
+  {
+    name: "Display HTML STL Checking Promo - April 11",
+    dir: "/23/display-html-stl-checking-promo-april-11/",
+    download:"/23/display-html-stl-checking-promo-april-11/Archive.zip",
   },
   {
     name: "CACU-R321-204-FY22 Programmatic Banners - January 23",
