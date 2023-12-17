@@ -21,10 +21,19 @@ function Link({
         color: theme.palette.common.black,
         textDecoration: "none",
         fontWeight: 700,
-        display: "inline-flex",
-        alignItems: "center",
+        display: "flex",
+        flexDirection: "column",     
+        mr: 2,   
+        mb: 2,
+        alignSelf: "flex-start",
         ":hover": {
           textDecoration: "underline",
+        },
+        [theme.breakpoints.up("md")]: {
+          flexDirection: "row",
+          alignItems: "center",
+          alignSelf: "center",
+          mb: 0,
         },
         ...sx,
       }}

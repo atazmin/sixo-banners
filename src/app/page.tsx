@@ -15,16 +15,14 @@ import Link from "@/app/components/Link";
 import { data } from "@/app/data";
 
 const Section = styled(Box)(({ theme }) => ({
-  [theme.breakpoints.up("md")]: {
-    maxWidth: "70%",
-  },
+  [theme.breakpoints.up("md")]: {},
 }));
 
 export default function Home() {
   const theme = useTheme();
   const breakpointUpMd = useMediaQuery(theme.breakpoints.up("md"));
   const totalItems = data.length;
-  
+
   return (
     <Container maxWidth={false} disableGutters={breakpointUpMd}>
       <Typography
@@ -40,26 +38,59 @@ export default function Home() {
         <Typography component="h3" variant="h4">
           2023
         </Typography>
-        <List sx={{ width: "100%", bgcolor: "background.paper" }}>
+        <List sx={{ 
+          width: "100%", 
+          bgcolor: "background.paper" 
+        }}>
           {data.map((item, index) => (
             <ListItem
               key={index}
               disableGutters
               divider
-              sx={{ justifyContent: "space-between" }}
-            >              
-              <Link href={item.dir}><Typography component="span" sx={{mr: 1, fontWeight: 300, fontSize: ".75rem"}}>{totalItems - index}</Typography>{item.name}</Link>
+              sx={{
+                justifyContent: "space-between",
+                flexDirection: "column",
+                [theme.breakpoints.up("md")]: {
+                  flexDirection: "row",
+                },
+              }}
+            >
+              <Link
+                href={item.dir}
+              >
+                <Typography
+                  component="span"
+                  sx={{
+                    mr: 1,
+                    mb: 1,
+                    fontWeight: 300,
+                    fontSize: ".75rem",
+                    [theme.breakpoints.up("md")]: {
+                      mb: 0
+                    }
+                  }}
+                >
+                  {totalItems - index}
+                </Typography>
+                {item.name}
+              </Link>
               <MuiLink
                 component="a"
                 href={item.download}
                 target="_blank"
                 sx={{
                   display: "inline-flex",
-                  alignItems: "center",
                   color: "inherit",
                   textDecoration: "none",
+                  flexShrink: 0,                  
+                  alignItems: "center",
+                  alignSelf: "flex-start",
+                  py: 2,
                   ":hover": {
                     textDecoration: "underline",
+                  },
+                  [theme.breakpoints.up("md")]: {
+                    p: 2,
                   },
                 }}
               >
