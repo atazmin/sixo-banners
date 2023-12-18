@@ -1,6 +1,6 @@
 export const data = [
   {
-    name: "Display HTML5 - Chiefs Checking - Nov 2023 Refresh - Nov. 9 Display HTML5 - Chiefs Checking - Nov 2023 Refresh - Nov. 9 Display HTML5 - Chiefs Checking - Nov 2023 Refresh - Nov. 9",
+    name: "Display HTML5 - Chiefs Checking - Nov 2023 Refresh - Nov. 9",
     dir: "/23/display-html5-chiefs-checking-nov-2023-refresh/",
     download:"/23/display-html5-chiefs-checking-nov-2023-refresh/Archive.zip",
   },
