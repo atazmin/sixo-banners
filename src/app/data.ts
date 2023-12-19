@@ -1,5 +1,10 @@
 export const data = [
   {
+    name: "Display HTML - KC Chiefs Checking JAN Ext - Dec. 15",
+    dir: "/23/display-html-kc-chiefs-checking-jan-ext/",
+    download:"/23/display-html-kc-chiefs-checking-jan-ext/Archive.zip",
+  },
+  {
     name: "Display HTML - Visa $150 Promo (Q1 2024) - Dec. 15",
     dir: "/23/display-html-visa-150-promo-q1-2024/",
     download:"/23/display-html-visa-150-promo-q1-2024/Archive.zip",
