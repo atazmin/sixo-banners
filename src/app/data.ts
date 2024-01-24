@@ -1,4 +1,4 @@
-export const data = [
+export const data2024 = [
   {
     name: "Display HTML - KC Chiefs Checking FEB Ext - Jan. 24",
     dir: "/23/display-html-kc-chiefs-checking-feb-ext/",
@@ -9,6 +9,10 @@ export const data = [
     dir: "/23/display-html-kc-chiefs-checking-jan-ext/",
     download:"/23/display-html-kc-chiefs-checking-jan-ext/Archive.zip",
   },
+]
+
+export const data2023 = [
+
   {
     name: "Display HTML - Visa $150 Promo (Q1 2024) - Dec. 15",
     dir: "/23/display-html-visa-150-promo-q1-2024/",
