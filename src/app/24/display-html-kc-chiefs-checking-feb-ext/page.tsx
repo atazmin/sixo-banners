@@ -17,19 +17,19 @@ export default function Home() {
 
   return (
     <Container maxWidth={false} disableGutters={breakpointUpMd}>
-      <Breadcrumbs pageName="Display HTML - KC Chiefs Checking JAN Ext - Dec. 15" />
+      <Breadcrumbs pageName="Display HTML - KC Chiefs Checking FEB Ext - Jan. 24" />
       <Grid container rowSpacing={8}>
         <Grid xs={12}>
           <Typography sx={{ ...bannerStyles.heading }}>728x90</Typography>
           <MuiLink
             component="a"
-            href="/23/display-html-kc-chiefs-checking-jan-ext/728x90/"
+            href="/24/display-html-kc-chiefs-checking-feb-ext/728x90/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
             <Box
               component="img"
-              src="/23/display-html-kc-chiefs-checking-jan-ext/728x90/728x90.png"
+              src="/24/display-html-kc-chiefs-checking-feb-ext/728x90/728x90.png"
               alt="alt"
               sx={{
                 ...bannerStyles.image,
@@ -43,13 +43,13 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>160x600</Typography>
           <MuiLink
             component="a"
-            href="/23/display-html-kc-chiefs-checking-jan-ext/160x600/"
+            href="/24/display-html-kc-chiefs-checking-feb-ext/160x600/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
             <Box
               component="img"
-              src="/23/display-html-kc-chiefs-checking-jan-ext/160x600/160x600.png"
+              src="/24/display-html-kc-chiefs-checking-feb-ext/160x600/160x600.png"
               alt="alt"
               sx={{
                 ...bannerStyles.image,
@@ -61,13 +61,13 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>300x600</Typography>
           <MuiLink
             component="a"
-            href="/23/display-html-kc-chiefs-checking-jan-ext/300x600/"
+            href="/24/display-html-kc-chiefs-checking-feb-ext/300x600/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
             <Box
               component="img"
-              src="/23/display-html-kc-chiefs-checking-jan-ext/300x600/300x600.png"
+              src="/24/display-html-kc-chiefs-checking-feb-ext/300x600/300x600.png"
               alt="alt"
               sx={{
                 ...bannerStyles.image,
@@ -79,13 +79,13 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>300x250</Typography>
           <MuiLink
             component="a"
-            href="/23/display-html-kc-chiefs-checking-jan-ext/300x250/"
+            href="/24/display-html-kc-chiefs-checking-feb-ext/300x250/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
             <Box
               component="img"
-              src="/23/display-html-kc-chiefs-checking-jan-ext/300x250/300x250.png"
+              src="/24/display-html-kc-chiefs-checking-feb-ext/300x250/300x250.png"
               alt="alt"
               sx={{
                 ...bannerStyles.image,
@@ -96,13 +96,13 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>320x50</Typography>
           <MuiLink
             component="a"
-            href="/23/display-html-kc-chiefs-checking-jan-ext/320x50/"
+            href="/24/display-html-kc-chiefs-checking-feb-ext/320x50/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
             <Box
               component="img"
-              src="/23/display-html-kc-chiefs-checking-jan-ext/320x50/320x50.png"
+              src="/24/display-html-kc-chiefs-checking-feb-ext/320x50/320x50.png"
               alt="alt"
               sx={{
                 ...bannerStyles.image,
@@ -113,13 +113,13 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>300x50</Typography>
           <MuiLink
             component="a"
-            href="/23/display-html-kc-chiefs-checking-jan-ext/300x50/"
+            href="/24/display-html-kc-chiefs-checking-feb-ext/300x50/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
             <Box
               component="img"
-              src="/23/display-html-kc-chiefs-checking-jan-ext/300x50/300x50.png"
+              src="/24/display-html-kc-chiefs-checking-feb-ext/300x50/300x50.png"
               alt="alt"
               sx={{
                 ...bannerStyles.image,

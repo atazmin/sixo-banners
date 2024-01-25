@@ -71,7 +71,7 @@ export default function Home() {
                     }
                   }}
                 >
-                  {totalItems2023 - index}
+                  {totalItems2024 - index}
                 </Typography>
                 {item.name}
               </Link>
