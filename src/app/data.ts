@@ -1,16 +1,21 @@
 export const data2024 = [
   {
-    name: "Display HTML - 2024 Chiefs Checking Always On/No Promo  - Jan. 25",
+    name: "Display HTML - Chiefs Checking Promo Conference Champs 2024 - 01-31",
+    dir: "/24/display-html-chiefs-checking-promo-conference-champs-2024-01-31/",
+    download:"/24/display-html-chiefs-checking-promo-conference-champs-2024-01-31/Archive.zip",
+  },
+  {
+    name: "Display HTML - 2024 Chiefs Checking Always On/No Promo  - 01-25",
     dir: "/24/display-html-2024-chiefs-checking-always-on-no-promo-01-25/",
     download:"/24/display-html-2024-chiefs-checking-always-on-no-promo-01-25/Archive.zip",
   },
   {
-    name: "Display HTML - KC Chiefs Checking FEB Ext - Jan. 24",
+    name: "Display HTML - KC Chiefs Checking FEB Ext - 01-24",
     dir: "/24/display-html-kc-chiefs-checking-feb-ext/",
     download:"/24/display-html-kc-chiefs-checking-feb-ext/Archive.zip",
   },
   {
-    name: "Display HTML - KC Chiefs Checking JAN Ext - Dec. 15",
+    name: "Display HTML - KC Chiefs Checking JAN Ext - 12-15",
     dir: "/24/display-html-kc-chiefs-checking-jan-ext/",
     download:"/24/display-html-kc-chiefs-checking-jan-ext/Archive.zip",
   },
