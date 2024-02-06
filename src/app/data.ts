@@ -1,5 +1,10 @@
 export const data2024 = [
   {
+    name: "Display HTML - Chiefs Checking Promo World Champs 2024 - 02-06",
+    dir: "/24/display-html-chiefs-checking-promo-world-champs-2024-02-06/",
+    download:"/24/display-html-chiefs-checking-promo-world-champs-2024-02-06/Archive.zip",
+  },
+  {
     name: "Display HTML - Chiefs Checking Promo Conference Champs 2024 - 01-31",
     dir: "/24/display-html-chiefs-checking-promo-conference-champs-2024-01-31/",
     download:"/24/display-html-chiefs-checking-promo-conference-champs-2024-01-31/Archive.zip",
