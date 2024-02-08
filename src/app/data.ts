@@ -1,5 +1,10 @@
 export const data2024 = [
   {
+    name: "CD - Display HTML - Rate/Term Test (Q1 2024) - CD-7-MO - 02-07",
+    dir: "/24/cd-display-html-rate-term-test-q1-2024-cd-7-mo-02-07/",
+    download:"/24/cd-display-html-rate-term-test-q1-2024-cd-7-mo-02-07/Archive.zip",
+  },
+  {
     name: "CD - Display HTML - Rate/Term Test (Q1 2024) - CD-3-MO - 02-07",
     dir: "/24/cd-display-html-rate-term-test-q1-2024-cd-3-mo-02-07/",
     download:"/24/cd-display-html-rate-term-test-q1-2024-cd-3-mo-02-07/Archive.zip",
