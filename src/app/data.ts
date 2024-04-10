@@ -1,5 +1,10 @@
 export const data2024 = [
   {
+    name: "Display HTML - Tiered Checking Promo_Q2 2024 - 04-10",
+    dir: "/24/display-html-tiered-checking-promo-q2-2024-04-10/",
+    download:"/24/display-html-tiered-checking-promo-q2-2024-04-10/Archive.zip",
+  },
+  {
     name: "CD - Display HTML - Rate/Term Test (Q1 2024) - CD-NO-TERMS - 02-07",
     dir: "/24/cd-display-html-rate-term-test-q1-2024-cd-no-terms-02-08/",
     download:"/24/cd-display-html-rate-term-test-q1-2024-cd-no-terms-02-08/Archive.zip",
