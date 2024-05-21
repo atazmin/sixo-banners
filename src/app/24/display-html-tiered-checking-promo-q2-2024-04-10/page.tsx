@@ -58,6 +58,24 @@ export default function Home() {
           </MuiLink>
         </Grid>
         <Grid xs="auto">
+          <Typography sx={{ ...bannerStyles.heading }}>300x600</Typography>
+          <MuiLink
+            component="a"
+            href="/24/display-html-tiered-checking-promo-q2-2024-04-10/300x600/html/300x600/"
+            target="_blank"
+            sx={{ ...bannerStyles.link }}
+          >
+            <Box
+              component="img"
+              src="/24/display-html-tiered-checking-promo-q2-2024-04-10/300x600/static/300x600.png"
+              alt="alt"
+              sx={{
+                ...bannerStyles.image,
+              }}
+            />
+          </MuiLink>
+        </Grid>
+        <Grid xs="auto">
           <Typography sx={{ ...bannerStyles.heading }}>300x250</Typography>
           <MuiLink
             component="a"
@@ -85,6 +103,23 @@ export default function Home() {
             <Box
               component="img"
               src="/24/display-html-tiered-checking-promo-q2-2024-04-10/320x50/static/320x50.png"
+              alt="alt"
+              sx={{
+                ...bannerStyles.image,
+              }}
+            />
+          </MuiLink>
+
+          <Typography sx={{ ...bannerStyles.heading }}>300x50</Typography>
+          <MuiLink
+            component="a"
+            href="/24/display-html-tiered-checking-promo-q2-2024-04-10/300x50/html/300x50/"
+            target="_blank"
+            sx={{ ...bannerStyles.link }}
+          >
+            <Box
+              component="img"
+              src="/24/display-html-tiered-checking-promo-q2-2024-04-10/300x50/static/300x50.png"
               alt="alt"
               sx={{
                 ...bannerStyles.image,
