@@ -1,8 +1,18 @@
 export const data2024 = [
   {
-    name: "Q2 2024 - CD HTML Display Refresh - 06-01 - CD-3",
-    dir: "/24/q2-2024-cd-html-display-refresh-2024-06-01-cd3/",
-    download:"/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-3/Archive.zip",
+    name: "Q2 2024 - CD HTML Display Refresh - 06-01 - CD-NO-TERMS",
+    dir: "/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-no-terms/",
+    download:"/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-no-terms/Archive.zip",
+  },
+  {
+    name: "Q2 2024 - CD HTML Display Refresh - 06-01 - CD-7-MO",
+    dir: "/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-7-mo/",
+    download:"/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-7-mo/Archive.zip",
+  },
+  {
+    name: "Q2 2024 - CD HTML Display Refresh - 06-01 - CD-3-MO",
+    dir: "/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-3-mo/",
+    download:"/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-3-mo/Archive.zip",
   },
   {
     name: "Display HTML - Tiered Checking Promo_Q2 2024 - 04-10",

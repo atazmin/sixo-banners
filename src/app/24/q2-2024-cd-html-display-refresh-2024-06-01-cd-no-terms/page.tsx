@@ -17,19 +17,19 @@ export default function Home() {
 
   return (
     <Container maxWidth={false} disableGutters={breakpointUpMd}>
-      <Breadcrumbs pageName="Q2 2024 - CD HTML Display Refresh - 06-01 - CD-3" />
+      <Breadcrumbs pageName="Q2 2024 - CD HTML Display Refresh - 06-01 - CD-NO-TERMS" />
       <Grid container rowSpacing={8}>
         <Grid xs={12}>
           <Typography sx={{ ...bannerStyles.heading }}>728x90</Typography>
           <MuiLink
             component="a"
-            href="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-3/728x90/html/728x90/"
+            href="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-no-terms/728x90/html/728x90/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
             <Box
               component="img"
-              src="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-3/728x90/static/728x90.png"
+              src="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-no-terms/728x90/static/728x90.png"
               alt="alt"
               sx={{
                 ...bannerStyles.image,
@@ -43,13 +43,13 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>160x600</Typography>
           <MuiLink
             component="a"
-            href="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-3/160x600/html/160x600/"
+            href="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-no-terms/160x600/html/160x600/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
             <Box
               component="img"
-              src="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-3/160x600/static/160x600.png"
+              src="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-no-terms/160x600/static/160x600.png"
               alt="alt"
               sx={{
                 ...bannerStyles.image,
@@ -61,13 +61,13 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>300x600</Typography>
           <MuiLink
             component="a"
-            href="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-3/300x600/html/300x600/"
+            href="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-no-terms/300x600/html/300x600/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
             <Box
               component="img"
-              src="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-3/300x600/static/300x600.png"
+              src="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-no-terms/300x600/static/300x600.png"
               alt="alt"
               sx={{
                 ...bannerStyles.image,
@@ -79,13 +79,13 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>300x250</Typography>
           <MuiLink
             component="a"
-            href="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-3/300x250/html/300x250/"
+            href="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-no-terms/300x250/html/300x250/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
             <Box
               component="img"
-              src="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-3/300x250/static/300x250.png"
+              src="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-no-terms/300x250/static/300x250.png"
               alt="alt"
               sx={{
                 ...bannerStyles.image,
@@ -96,13 +96,13 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>320x50</Typography>
           <MuiLink
             component="a"
-            href="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-3/320x50/html/320x50/"
+            href="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-no-terms/320x50/html/320x50/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
             <Box
               component="img"
-              src="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-3/320x50/static/320x50.png"
+              src="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-no-terms/320x50/static/320x50.png"
               alt="alt"
               sx={{
                 ...bannerStyles.image,
@@ -113,13 +113,13 @@ export default function Home() {
           <Typography sx={{ ...bannerStyles.heading }}>300x50</Typography>
           <MuiLink
             component="a"
-            href="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-3/300x50/html/300x50/"
+            href="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-no-terms/300x50/html/300x50/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
             <Box
               component="img"
-              src="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-3/300x50/static/300x50.png"
+              src="/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-no-terms/300x50/static/300x50.png"
               alt="alt"
               sx={{
                 ...bannerStyles.image,
