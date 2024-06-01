@@ -1,5 +1,10 @@
 export const data2024 = [
   {
+    name: "Q2 2024 - CD HTML Display Refresh - 06-01 - CD-3",
+    dir: "/24/q2-2024-cd-html-display-refresh-2024-06-01-cd3/",
+    download:"/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-3/Archive.zip",
+  },
+  {
     name: "Display HTML - Tiered Checking Promo_Q2 2024 - 04-10",
     dir: "/24/display-html-tiered-checking-promo-q2-2024-04-10/",
     download:"/24/display-html-tiered-checking-promo-q2-2024-04-10/Archive.zip",
