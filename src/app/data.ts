@@ -1,5 +1,15 @@
 export const data2024 = [
   {
+    name: "Q2 2024 HTML Refresh - Mortgage Always On - 06-12",
+    dir: "/24/q2-2024-html-refresh-mortgage-always-on-06-12/",
+    download:"/24/q2-2024-html-refresh-mortgage-always-on-06-12/Archive.zip",
+  },
+  {
+    name: "Q2 2024 HTML Refresh - High-Interest Savings Always On - 06-12",
+    dir: "/24/q2-2024-html-refresh-high-interest-savings-always-on-2024-06-12/",
+    download:"/24/q2-2024-html-refresh-high-interest-savings-always-on-2024-06-12/Archive.zip",
+  },
+  {
     name: "Q2 2024 - CD HTML Display Refresh - 06-01 - CD-NO-TERMS",
     dir: "/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-no-terms/",
     download:"/24/q2-2024-cd-html-display-refresh-2024-06-01-cd-no-terms/Archive.zip",

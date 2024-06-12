@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="17px" viewBox="0 0 19 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3 Copy 5</title>
+    <defs>
+        <polygon id="path-1" points="0 0 19 0 19 17 0 17"></polygon>
+    </defs>
+    <g id="Banners-Display" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="300x600_Q2-2024-Mortgage-Always-On-Refresh_f4" transform="translate(-194.000000, -12.000000)">
+            <g id="Group-3-Copy-5" transform="translate(194.000000, 12.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M13.7260005,0 C16.2108009,0.00147492412 18.9881902,2.01706395 19,5.59517647 C19.0175961,10.6113116 14.1090126,14.2844574 10.2296364,16.7811062 C9.77457971,17.0743096 9.19381276,17.0728362 8.74022641,16.7774227 C4.90863478,14.2807739 -0.0183274359,10.6091015 0,5.59517647 C0.0125487821,2.01706395 2.78920296,0.00147492412 5.27400336,0 C7.55590291,-0.00147184346 8.55790969,1.05420764 9.4422928,2.55190226 C10.3678442,1.13819052 11.4433658,-0.00147184346 13.7260005,0" id="Fill-1" fill="#00C0E8" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
