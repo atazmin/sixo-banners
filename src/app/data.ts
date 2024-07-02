@@ -1,6 +1,6 @@
 export const data2024 = [
   {
-    name: "Q2 2024 HTML Refresh - Mortgage Always On - 07-02",
+    name: "Q2 2024 HTML Refresh - Locked Rate MM Always On - 07-02",
     dir: "/24/q2-2024-html-refresh-locked-rate-mm-always-on-07-02/",
     download:"/24/q2-2024-html-refresh-locked-rate-mm-always-on-07-02/Archive.zip",
   },
