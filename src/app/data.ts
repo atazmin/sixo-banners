@@ -15,6 +15,11 @@ export const data2024 = [
     download:"/24/aug-2024-rate-change-cd-html-display-3-mo-07-25/Archive.zip",
   },
   {
+    name: "Display HTML - $400 STL Checking Promo Q3 2024 - 07-08",
+    dir: "/24/display-html-400-stl-checking-promo-q3-2024-07-08/",
+    download:"/24/display-html-400-stl-checking-promo-q3-2024-07-08/Archive.zip",
+  },
+  {
     name: "Q2 2024 HTML Refresh - Locked Rate MM Always On - 07-02",
     dir: "/24/q2-2024-html-refresh-locked-rate-mm-always-on-07-02/",
     download:"/24/q2-2024-html-refresh-locked-rate-mm-always-on-07-02/Archive.zip",
