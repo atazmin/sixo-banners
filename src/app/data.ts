@@ -1,5 +1,10 @@
 export const data2024 = [
   {
+    name: "Display HTML - Chiefs Checking Preseason $300 Promo Aug 2024 - 08-08",
+    dir: "/24/display-html-chiefs-checking-preseason-300-promo-aug-2024-08-08/",
+    download:"/24/display-html-chiefs-checking-preseason-300-promo-aug-2024-08-08/Archive.zip",
+  },
+  {
     name: "Aug 2024 Rate Change - CD HTML Display (13-Mo) - 07-25",
     dir: "/24/aug-2024-rate-change-cd-html-display-13-mo-07-25/",
     download:"/24/aug-2024-rate-change-cd-html-display-13-mo-07-25/Archive.zip",
