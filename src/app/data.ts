@@ -1,5 +1,10 @@
 export const data2024 = [
   {
+    name: "Display HTML - Chiefs Checking Regular Season $300 Promo - 08-20",
+    dir: "/24/display-html-chiefs-checking-regular-season-300-promo-08-20/",
+    download:"/24/display-html-chiefs-checking-regular-season-300-promo-08-20/Archive.zip",
+  },
+  {
     name: "Display HTML - Chiefs Checking Preseason $300 Promo Aug 2024 - 08-08",
     dir: "/24/display-html-chiefs-checking-preseason-300-promo-aug-2024-08-08/",
     download:"/24/display-html-chiefs-checking-preseason-300-promo-aug-2024-08-08/Archive.zip",
