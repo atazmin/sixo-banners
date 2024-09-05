@@ -1,5 +1,10 @@
 export const data2024 = [
   {
+    name: "Display HTML - Visa Credit Card Always On (Q3 2024) - 09-05",
+    dir: "/24/display-html-visa-credit-card-always-on-q3-2024-09-05/",
+    download:"/24/display-html-visa-credit-card-always-on-q3-2024-09-05/Archive.zip",
+  },
+  {
     name: "Display HTML - Chiefs Checking Regular Season $300 Promo - 08-20",
     dir: "/24/display-html-chiefs-checking-regular-season-300-promo-08-20/",
     download:"/24/display-html-chiefs-checking-regular-season-300-promo-08-20/Archive.zip",
