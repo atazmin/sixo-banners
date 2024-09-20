@@ -1,5 +1,10 @@
 export const data2024 = [
   {
+    name: "Display HTML - STL Promo Checking Refresh Q4 2024- 09-19",
+    dir: "/24/display-html-stl-promo-checking-refresh-q4-2024-09-19/",
+    download:"/24/display-html-stl-promo-checking-refresh-q4-2024-09-19/Archive.zip",
+  },
+  {
     name: "Display HTML - Visa Credit Card Always On (Q3 2024) - 09-05",
     dir: "/24/display-html-visa-credit-card-always-on-q3-2024-09-05/",
     download:"/24/display-html-visa-credit-card-always-on-q3-2024-09-05/Archive.zip",
