@@ -1,5 +1,25 @@
 export const data2024 = [
   {
+    name: "Display HTML - STL Brand Refresh Q4 2024 - 1. Show Me - 10-09",
+    dir: "/24/display-html-stl-brand-refresh-q4-2024-1-show-me-10-09/",
+    download:"/24/display-html-stl-brand-refresh-q4-2024-1-show-me-10-09/Archive.zip",
+  },
+  {
+    name: "Display HTML - STL Brand Refresh Q4 2024 - 2. Talk of the town - 10-09",
+    dir: "/24/display-html-stl-brand-refresh-q4-2024-2-talk-of-the-town-10-09/",
+    download:"/24/display-html-stl-brand-refresh-q4-2024-2-talk-of-the-town-10-09/Archive.zip",
+  },
+  {
+    name: "Display HTML - STL Brand Refresh Q4 2024 - 3. You belong here - 10-09",
+    dir: "/24/display-html-stl-brand-refresh-q4-2024-3-you-belong-here-10-09/",
+    download:"/24/display-html-stl-brand-refresh-q4-2024-3-you-belong-here-10-09/Archive.zip",
+  },
+  {
+    name: "Display HTML - STL Brand Refresh Q4 2024 - 4. Community - 10-09",
+    dir: "/24/display-html-stl-brand-refresh-q4-2024-4-community-10-09/",
+    download:"/24/display-html-stl-brand-refresh-q4-2024-4-community-10-09/Archive.zip",
+  },
+  {
     name: "Display HTML - STL Promo Checking Refresh Q4 2024- 09-19",
     dir: "/24/display-html-stl-promo-checking-refresh-q4-2024-09-19/",
     download:"/24/display-html-stl-promo-checking-refresh-q4-2024-09-19/Archive.zip",
