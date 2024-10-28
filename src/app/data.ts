@@ -1,5 +1,10 @@
 export const data2024 = [
   {
+    name: "Display HTML - Chiefs Checking Refresh Nov 2024 - 10-28",
+    dir: "/24/display-html-chiefs-checking-refresh-nov-2024-10-28/",
+    download:"/24/display-html-chiefs-checking-refresh-nov-2024-10-28/Archive.zip",
+  },
+  {
     name: "Display HTML - KC Cashback Free Checking Always On - Q4 2024 - 10-11",
     dir: "/24/display-html-kc-cashback-free-checking-always-on-q4-2024/",
     download:"/24/display-html-kc-cashback-free-checking-always-on-q4-2024/Archive.zip",
