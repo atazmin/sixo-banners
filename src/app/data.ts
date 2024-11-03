@@ -1,5 +1,10 @@
 export const data2024 = [
   {
+    name: "Cashback Free Checking - STL version - 11-03",
+    dir: "/24/cashback-free-checking-stl-version-11-03/",
+    download:"/24/cashback-free-checking-stl-version-11-03/Archive.zip",
+  },
+  {
     name: "Display HTML - Chiefs Checking Refresh Nov 2024 - 10-28",
     dir: "/24/display-html-chiefs-checking-refresh-nov-2024-10-28/",
     download:"/24/display-html-chiefs-checking-refresh-nov-2024-10-28/Archive.zip",
