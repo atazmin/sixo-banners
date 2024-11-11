@@ -1,5 +1,10 @@
 export const data2024 = [
   {
+    name: "Display HTML - Visa Credit Card Holiday 2024 - 11-11",
+    dir: "/24/display-html-visa-credit-card-holiday-2024-11-11/",
+    download:"/24/display-html-visa-credit-card-holiday-2024-11-11/Archive.zip",
+  },
+  {
     name: "Cashback Free Checking - STL version - 11-03",
     dir: "/24/cashback-free-checking-stl-version-11-03/",
     download:"/24/cashback-free-checking-stl-version-11-03/Archive.zip",
