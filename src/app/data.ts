@@ -1,5 +1,20 @@
 export const data2024 = [
   {
+    name: "Display HTML - Auto Loan Q4 2024 - General - 11-18",
+    dir: "/24/display-html-auto-loan-q4-2024-general-11-18/",
+    download:"/24/display-html-auto-loan-q4-2024-general-11-18/Archive.zip",
+  },
+  {
+    name: "Display HTML - Auto Loan Q4 2024 - Rate Focus - 11-18",
+    dir: "/24/display-html-auto-loan-q4-2024-rate-focus-11-18/",
+    download:"/24/display-html-auto-loan-q4-2024-rate-focus-11-18/Archive.zip",
+  },
+  {
+    name: "Display HTML - Auto Loan Q4 2024 - Refinance - 11-18",
+    dir: "/24/display-html-auto-loan-q4-2024-refinance-11-18/",
+    download:"/24/display-html-auto-loan-q4-2024-refinance-11-18/Archive.zip",
+  },
+  {
     name: "Display HTML - Visa Credit Card Holiday 2024 - 11-11",
     dir: "/24/display-html-visa-credit-card-holiday-2024-11-11/",
     download:"/24/display-html-visa-credit-card-holiday-2024-11-11/Archive.zip",
