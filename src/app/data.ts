@@ -1,5 +1,10 @@
 export const data2024 = [
   {
+    name: "Display HTML - Home Equity Refresh Q4 2024 - 12-11",
+    dir: "/24/display-html-home-equity-refresh-q4-2024-12-11/",
+    download:"/24/display-html-home-equity-refresh-q4-2024-12-11/Archive.zip",
+  },
+  {
     name: "Display HTML - Auto Loan Q4 2024 - General - 11-18",
     dir: "/24/display-html-auto-loan-q4-2024-general-11-18/",
     download:"/24/display-html-auto-loan-q4-2024-general-11-18/Archive.zip",
