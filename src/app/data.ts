@@ -1,5 +1,10 @@
 export const data2024 = [
   {
+    name: "Display HTML - Chiefs Score $400 - 12-19",
+    dir: "/24/display-html-chiefs-score-400-2025-12-19/",
+    download:"/24/display-html-chiefs-score-400-2025-12-19/Archive.zip",
+  },
+  {
     name: "Display HTML - Profit Payout Day 2025 - 12-12",
     dir: "/24/display-html-profit-payout-day-2025-12-12/",
     download:"/24/display-html-profit-payout-day-2025-12-12/Archive.zip",
