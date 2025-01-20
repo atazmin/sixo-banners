@@ -1,3 +1,16 @@
+export const data2025 = [
+  {
+    name: "KC & STL Display HTML - Chiefs Checking Post-Season 2025 - KC - 01-20",
+    dir: "/25/kc-stl-display-html-chiefs-checking-post-season-2025-kc-01-20/",
+    download:"/25/kc-stl-display-html-chiefs-checking-post-season-2025-kc-01-20/Archive.zip",
+  },
+  {
+    name: "KC & STL Display HTML - Chiefs Checking Post-Season 2025 - STL - 01-20",
+    dir: "/25/kc-stl-display-html-chiefs-checking-post-season-2025-stl-01-20/",
+    download:"/25/kc-stl-display-html-chiefs-checking-post-season-2025-stl-01-20/Archive.zip",
+  }
+]
+
 export const data2024 = [
   {
     name: "Display HTML - Chiefs Score $400 - 12-19",
