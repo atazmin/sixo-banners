@@ -1,5 +1,10 @@
 export const data2025 = [
   {
+    name: "Display - Hazelwood Grand Opening  (Q2 2025) - 03-13",
+    dir: "/25/display-hazelwood-grand-opening-q2-2025-03-13/",
+    download:"/25/display-hazelwood-grand-opening-q2-2025-03-13/Archive.zip",
+  },
+  {
     name: "Display HTML - HIS Always-On Refresh Q1 2025 - 02-21",
     dir: "/25/display-html-his-always-on-refresh-q1-2025-02-21/",
     download:"/25/display-html-his-always-on-refresh-q1-2025-02-21/Archive.zip",
