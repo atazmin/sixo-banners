@@ -1,5 +1,15 @@
 export const data2025 = [
   {
+    name: "Display - STL Checking Promos (Q2 2025) - Checking + HIS 03-18",
+    dir: "/25/display-stl-checking-promos-q2-2025-checking-his-03-18/",
+    download:"/25/display-stl-checking-promos-q2-2025-checking-his-03-18/Archive.zip",
+  },
+  {
+    name: "Display - STL Checking Promos (Q2 2025) - Checking only - 03-18",
+    dir: "/25/display-stl-checking-promos-q2-2025-checking-only-03-18/",
+    download:"/25/display-stl-checking-promos-q2-2025-checking-only-03-18/Archive.zip",
+  },
+  {
     name: "Display - KC Checking Promo (Q2 2025) - 2025-03-17",
     dir: "/25/display-kc-checking-promo-q2-2025-03-17/",
     download:"/25/display-kc-checking-promo-q2-2025-03-17/Archive.zip",
