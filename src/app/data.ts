@@ -1,5 +1,15 @@
 export const data2025 = [
   {
+    name: "Display - STL Auto Loan Promo (Q2 2025) - Buying 04-16",
+    dir: "/25/display-stl-auto-loan-promo-q2-2025-buying-04-16/",
+    download:"/25/display-stl-auto-loan-promo-q2-2025-buying-04-16/Archive.zip",
+  },
+  {
+    name: "Display - STL Auto Loan Promo (Q2 2025) - Refinance 04-16",
+    dir: "/25/display-stl-auto-loan-promo-q2-2025-refinance-04-16/",
+    download:"/25/display-stl-auto-loan-promo-q2-2025-refinance-04-16/Archive.zip",
+  },
+  {
     name: "Display - STL Checking Promos (Q2 2025) - Checking + HIS 03-18",
     dir: "/25/display-stl-checking-promos-q2-2025-checking-his-03-18/",
     download:"/25/display-stl-checking-promos-q2-2025-checking-his-03-18/Archive.zip",
