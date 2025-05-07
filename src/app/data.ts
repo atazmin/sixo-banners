@@ -1,5 +1,20 @@
 export const data2025 = [
   {
+    name: "Display - Electro Branch Celebration	Manchester - 05-07",
+    dir: "/25/display-electro-branch-celebration-manchester-05-07/",
+    download:"/25/display-electro-branch-celebration-manchester-05-07/Archive.zip",
+  },
+  {
+    name: "Display - Electro Branch Celebration	Tesson - 05-07",
+    dir: "/25/display-electro-branch-celebration-tesson-05-07/",
+    download:"/25/display-electro-branch-celebration-tesson-05-07/Archive.zip",
+  },
+  {
+    name: "Display - Electro Branch Celebration	Maryland Heights - 05-07",
+    dir: "/25/display-electro-branch-celebration-maryland-heights-05-07/",
+    download:"/25/display-electro-branch-celebration-maryland-heights-05-07/Archive.zip",
+  },
+  {
     name: "Display - Visa Signature Summer Promo (Q2 2025) - 04-30",
     dir: "/25/display-visa-signature-summer-promo-q2-2025-04-30/",
     download:"/25/display-visa-signature-summer-promo-q2-2025-04-30/Archive.zip",
