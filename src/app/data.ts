@@ -5,7 +5,7 @@ export const data2025 = [
     download:"/25/display-electro-branch-celebration-manchester-05-07/Archive.zip",
   },
   {
-    name: "Display - Electro Branch Celebration	Tesson - 05-07",
+    name: "Display - Electro Branch Celebration	Tesson Ferry - 05-07",
     dir: "/25/display-electro-branch-celebration-tesson-05-07/",
     download:"/25/display-electro-branch-celebration-tesson-05-07/Archive.zip",
   },
