@@ -1,6 +1,11 @@
 export const data2025 = [
     {
-    name: "Display - CD Always-On Refresh OLA (Q2 2025) - 05 - 27",
+    name: "Display - STL Checking Promo ALT Q2 2025 - 05-27",
+    dir: "/25/display-stl-checking-promo-alt-q2-2025-05-27/",
+    download:"/25/display-stl-checking-promo-alt-q2-2025-05-27/Archive.zip",
+  },
+    {
+    name: "Display - CD Always-On Refresh OLA (Q2 2025) - 05-27",
     dir: "/25/display-cd-always-on-refresh-ola-q2-2025-05-27/",
     download:"/25/display-cd-always-on-refresh-ola-q2-2025-05-27/Archive.zip",
   },
