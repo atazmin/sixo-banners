@@ -1,4 +1,9 @@
 export const data2025 = [
+    {
+    name: "Display - CD Always-On Refresh OLA (Q2 2025) - 05 - 27",
+    dir: "/25/display-cd-always-on-refresh-ola-q2-2025-05-27/",
+    download:"/25/display-cd-always-on-refresh-ola-q2-2025-05-27/Archive.zip",
+  },
   {
     name: "Display - Electro Branch Celebration	Manchester - 05-07",
     dir: "/25/display-electro-branch-celebration-manchester-05-07/",
