@@ -1,4 +1,9 @@
 export const data2025 = [
+      {
+    name: "Display - Chiefs Checking Always-On Refresh (Q2 2025) 08-04",
+    dir: "/25/display-chiefs-checking-always-on-refresh-q2-2025-08-04/",
+    download:"/25/display-chiefs-checking-always-on-refresh-q2-2025-08-04/Archive.zip",
+  },
     {
     name: "Display - STL Auto Loan Promo (Q2 2025) - Buying 06-25",
     dir: "/25/display-stl-auto-loan-promo-q2-2025-buying-06-25/",
