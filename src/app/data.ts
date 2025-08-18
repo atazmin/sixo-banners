@@ -1,5 +1,15 @@
 export const data2025 = [
-      {
+  {
+    name: "Display - Chiefs Checking Fall 2025 Promo - KC & STL - 08-18 - STL version",
+    dir: "/25/display-chiefs-checking-fall-2025-promo-kc-stl-08-18-stl/",
+    download:"/25/display-chiefs-checking-fall-2025-promo-kc-stl-08-18-stl/Archive.zip",
+  },
+  {
+    name: "Display - Chiefs Checking Fall 2025 Promo - KC & STL - 08-18 - KC version",
+    dir: "/25/display-chiefs-checking-fall-2025-promo-kc-stl-08-18-kc/",
+    download:"/25/display-chiefs-checking-fall-2025-promo-kc-stl-08-18-kc/Archive.zip",
+  },
+  {
     name: "Display - Chiefs Checking Always-On Refresh (Q2 2025) 08-04",
     dir: "/25/display-chiefs-checking-always-on-refresh-q2-2025-08-04/",
     download:"/25/display-chiefs-checking-always-on-refresh-q2-2025-08-04/Archive.zip",
