@@ -1,5 +1,10 @@
 export const data2025 = [
   {
+    name: "Display - HIS Always On Refresh (Q3 2025) - 08-21",
+    dir: "/25/display-his-always-on-refresh-q3-2025-08-21/",
+    download:"/25/display-his-always-on-refresh-q3-2025-08-21/Archive.zip",
+  },
+  {
     name: "Display - Chiefs Checking Fall 2025 Promo - KC & STL - 08-18 - STL version",
     dir: "/25/display-chiefs-checking-fall-2025-promo-kc-stl-08-18-stl/",
     download:"/25/display-chiefs-checking-fall-2025-promo-kc-stl-08-18-stl/Archive.zip",
