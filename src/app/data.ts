@@ -1,4 +1,9 @@
 export const data2025 = [
+    {
+    name: "Display - Chiefs + Guided Investing Promo (Q3 2025) - 08-25",
+    dir: "/25/display-chiefs-guided-investing-promo-q3-2025-08-25/",
+    download:"/25/display-chiefs-guided-investing-promo-q3-2025-08-25/Archive.zip",
+  },
   {
     name: "Display - HIS Always On Refresh (Q3 2025) - 08-21",
     dir: "/25/display-his-always-on-refresh-q3-2025-08-21/",
