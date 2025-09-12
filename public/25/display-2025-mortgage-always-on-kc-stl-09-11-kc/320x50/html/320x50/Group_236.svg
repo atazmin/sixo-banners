@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.544" height="19.124" viewBox="0 0 37.544 19.124">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_3756" data-name="Path 3756" d="M17.072-110.38H0v-18.584H17.072Z" transform="translate(0 128.964)" fill="none" stroke="#fff" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_3710" data-name="Path 3710" d="M0-109.84H16.94v-19.124H0Z" transform="translate(0 128.964)" fill="none" stroke="#fff" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_236" data-name="Group 236" transform="translate(0 0)">
+    <g id="Group_235" data-name="Group 235" transform="translate(20.471 0.27)" clip-path="url(#clip-path)">
+      <g id="Group_234" data-name="Group 234" transform="translate(1.243 1.448)">
+        <path id="Path_3755" data-name="Path 3755" d="M-66-107.855a4.7,4.7,0,0,1-3.356-.479,4.7,4.7,0,0,1-1.6-2.989,4.7,4.7,0,0,1,3.356.479A4.7,4.7,0,0,1-66-107.855Zm6.161-3.038a4.7,4.7,0,0,1-2.934,1.7,4.7,4.7,0,0,1-3.1-1.361,4.7,4.7,0,0,1,2.934-1.7A4.7,4.7,0,0,1-59.84-110.893Zm2.865-6.262a4.7,4.7,0,0,1-1.488,3.045,4.7,4.7,0,0,1-3.336.6,4.7,4.7,0,0,1,1.488-3.046A4.7,4.7,0,0,1-56.975-117.155Zm-1.511-6.419a4.7,4.7,0,0,1,.435,3.362,4.7,4.7,0,0,1-2.454,2.339,4.7,4.7,0,0,1-.435-3.362A4.7,4.7,0,0,1-58.486-123.574Z" transform="translate(70.954 123.574)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="LEFT_LEAF" data-name="LEFT LEAF" transform="translate(0 0)">
+      <g id="Group_172" data-name="Group 172" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+        <g id="Group_171" data-name="Group 171" transform="translate(1.379 1.77)">
+          <path id="Path_3709" data-name="Path 3709" d="M-61.929-107.855a4.7,4.7,0,0,0,3.356-.479,4.7,4.7,0,0,0,1.6-2.989,4.7,4.7,0,0,0-3.356.479A4.7,4.7,0,0,0-61.929-107.855Zm-6.161-3.038a4.7,4.7,0,0,0,2.934,1.7,4.7,4.7,0,0,0,3.1-1.361,4.7,4.7,0,0,0-2.934-1.7A4.7,4.7,0,0,0-68.089-110.893Zm-2.865-6.262a4.7,4.7,0,0,0,1.488,3.045,4.7,4.7,0,0,0,3.336.6,4.7,4.7,0,0,0-1.488-3.046A4.7,4.7,0,0,0-70.954-117.155Zm1.511-6.419a4.7,4.7,0,0,0-.435,3.362,4.7,4.7,0,0,0,2.454,2.339,4.7,4.7,0,0,0,.435-3.362A4.7,4.7,0,0,0-69.443-123.574Z" transform="translate(70.954 123.574)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
