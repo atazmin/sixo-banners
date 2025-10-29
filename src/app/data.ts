@@ -1,5 +1,11 @@
 export const data2025 = [
   {
+    name: "Display - Game Plan KC & STL Brand OLA (Q4 2025) - 10-29",
+    dir: "/25/display-game-plan-kc-stl-brand-ola-q4-2025-10-29/",
+    download:
+      "/25/display-game-plan-kc-stl-brand-ola-q4-2025-10-29/Archive.zip",
+  },
+  {
     name: "Display - Star Treatment KC Brand OLA (Q4 2025) - 10-28",
     dir: "/25/display-star-treatment-kc-brand-ola-q4-2025-10-28/",
     download:
