@@ -1,5 +1,11 @@
 export const data2025 = [
   {
+    name: "Display - Visa Signature Promo Holiday Refresh (Q4 2025) - 11-15",
+    dir: "/25/display-visa-signature-promo-holiday-refresh-q4-2025-11-15/",
+    download:
+      "/25/display-visa-signature-promo-holiday-refresh-q4-2025-11-15/Archive.zip",
+  },
+  {
     name: "Display - Game Plan KC & STL Brand OLA (Q4 2025) - 10-29",
     dir: "/25/display-game-plan-kc-stl-brand-ola-q4-2025-10-29/",
     download:
