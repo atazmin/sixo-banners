@@ -1,5 +1,11 @@
 export const data2025 = [
   {
+    name: "Display - Chiefs Checking Promo Refresh - Wins On & Off Field (Q4 2025) - 11-25",
+    dir: "/25/display-chiefs-checking-promo-refresh-wins-on-and-off-field-q4-2025-11-25/",
+    download:
+      "/25/display-chiefs-checking-promo-refresh-wins-on-and-off-field-q4-2025-11-25/Archive.zip",
+  },
+  {
     name: "Display - Share Certificates Q4 2025 - 11-21",
     dir: "/25/display-share-certificates-q4-2025-11-21/",
     download: "/25/display-share-certificates-q4-2025-11-21/Archive.zip",
