@@ -1,5 +1,17 @@
 export const data2025 = [
   {
+    name: "Display - Cashback Free Checking STL Alt (Q4 2025) - 12-15",
+    dir: "/25/display-cashback-free-checking-stl-alt-q4-2025-12-15/",
+    download:
+      "/25/display-cashback-free-checking-stl-alt-q4-2025-12-15/Archive.zip",
+  },
+  {
+    name: "Display HTML - Profit Payout Day 2026 - 12-15",
+    dir: "/25/display-html-profit-payout-day-2026-12-15/",
+    download: "/25/display-html-profit-payout-day-2026-12-15/Archive.zip",
+  },
+
+  {
     name: "Display - New Car Auto Loan Refresh (Q4 2025) - 12-01",
     dir: "/25/display-new-car-auto-loan-refresh-q4-2025-12-01/",
     download: "/25/display-new-car-auto-loan-refresh-q4-2025-12-01/Archive.zip",
