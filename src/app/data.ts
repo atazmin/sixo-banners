@@ -1,3 +1,11 @@
+export const data2026 = [
+  {
+    name: "Display - Share Certificates - 01-29",
+    dir: "/26/display-share-certificates-2026-01-29/",
+    download: "/26/display-share-certificates-2026-01-29/Archive.zip",
+  },
+];
+
 export const data2025 = [
   {
     name: "Display - Cashback Free Checking STL Alt (Q4 2025) - 12-15",
