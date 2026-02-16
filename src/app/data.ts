@@ -1,5 +1,11 @@
 export const data2026 = [
   {
+    name: "Display HTML - Chiefs Checking Always On Refresh Q1 2026 - 02-16",
+    dir: "/26/display-html-chiefs-checking-always-on-refresh-q1-2026-02-16/",
+    download:
+      "/26/display-html-chiefs-checking-always-on-refresh-q1-2026-02-16/Archive.zip",
+  },
+  {
     name: "Display HTML - Money Market Always-On Refresh - 01-30",
     dir: "/26/display-html-money-market-always-on-refresh-2026-01-30/",
     download:
