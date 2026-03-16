@@ -1,5 +1,18 @@
 export const data2026 = [
   {
+    name: "to kebab case: Display - Money Market Always-On (Q1 2026) - No Rate - 03-16",
+    dir: "/26/display-money-market-always-on-q1-2026-no-rate-03-16/",
+    download:
+      "/26/display-money-market-always-on-q1-2026-no-rate-03-16/Archive.zip",
+  },
+  {
+    name: "Display - Money Market Always-On (Q1 2026) - With Rate - 03-16",
+    dir: "/26/display-money-market-always-on-q1-2026-with-rate-03-16/",
+    download:
+      "/26/display-money-market-always-on-q1-2026-with-rate-03-16/Archive.zip",
+  },
+
+  {
     name: "Display - Cashback Free Checking - KC & STL (Q1 2026) KC - 03-11",
     dir: "/26/display-cashback-free-checking-kc-stl-q1-2026-kc-03-11/",
     download:
