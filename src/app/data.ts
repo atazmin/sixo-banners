@@ -1,5 +1,18 @@
 export const data2026 = [
   {
+    name: "Display - Credit Card Always-On - Q1 2026 - version 2 - 03-26",
+    dir: "/26/display-credit-card-always-on-q1-2026-version-2-03-26/",
+    download:
+      "/26/display-credit-card-always-on-q1-2026-version-2-03-26/Archive.zip",
+  },
+  {
+    name: "Display - Credit Card Always-On - Q1 2026 - version 1 - 03-26",
+    dir: "/26/display-credit-card-always-on-q1-2026-version-1-03-26/",
+    download:
+      "/26/display-credit-card-always-on-q1-2026-version-1-03-26/Archive.zip",
+  },
+
+  {
     name: "Display - Money Market Always-On (Q1 2026) - No Rate - 03-16",
     dir: "/26/display-money-market-always-on-q1-2026-no-rate-03-16/",
     download:
