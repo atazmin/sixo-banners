@@ -1,5 +1,19 @@
 export const data2026 = [
   {
+    name: "STL Biz Journal Animated Ads - Big Leagues - April 2026 - 04-10",
+    dir: "/26/stl-biz-journal-animated-ads-big-leagues-april-2026-04-10/",
+    download:
+      "/26/stl-biz-journal-animated-ads-big-leagues-april-2026-04-10/Archive.zip",
+  },
+
+  {
+    name: "KC Biz Journal Animated Ads - Star Treatment - April 2026 - 04-10",
+    dir: "/26/kc-biz-journal-animated-ads-star-treatment-april-2026-04-10/",
+    download:
+      "/26/kc-biz-journal-animated-ads-star-treatment-april-2026-04-10/Archive.zip",
+  },
+
+  {
     name: "Display - Credit Card Always-On - Q1 2026 - version 2 - 03-26",
     dir: "/26/display-credit-card-always-on-q1-2026-version-2-03-26/",
     download:
