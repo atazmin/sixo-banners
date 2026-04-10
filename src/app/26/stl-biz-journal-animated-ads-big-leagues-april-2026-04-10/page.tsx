@@ -20,16 +20,16 @@ export default function Home() {
       <Breadcrumbs pageName="STL Biz Journal Animated Ads - Big Leagues - April 2026 - 04-10" />
       <Grid container rowSpacing={8}>
         <Grid xs={12}>
-          <Typography sx={{ ...bannerStyles.heading }}>728x90</Typography>
+          <Typography sx={{ ...bannerStyles.heading }}>970x250</Typography>
           <MuiLink
             component="a"
-            href="/26/stl-biz-journal-animated-ads-big-leagues-april-2026-04-10/728x90/html/728x90/"
+            href="/26/stl-biz-journal-animated-ads-big-leagues-april-2026-04-10/970x250/html/970x250/"
             target="_blank"
             sx={{ ...bannerStyles.link }}
           >
             <Box
               component="img"
-              src="/26/stl-biz-journal-animated-ads-big-leagues-april-2026-04-10/728x90/static/728x90.jpg"
+              src="/26/stl-biz-journal-animated-ads-big-leagues-april-2026-04-10/970x250/static/970x250.jpg"
               alt="alt"
               sx={{
                 ...bannerStyles.image,
@@ -39,24 +39,6 @@ export default function Home() {
         </Grid>
       </Grid>
       <Grid container rowSpacing={8} columnSpacing={5}>
-        <Grid xs="auto">
-          <Typography sx={{ ...bannerStyles.heading }}>160x600</Typography>
-          <MuiLink
-            component="a"
-            href="/26/stl-biz-journal-animated-ads-big-leagues-april-2026-04-10/160x600/html/160x600/"
-            target="_blank"
-            sx={{ ...bannerStyles.link }}
-          >
-            <Box
-              component="img"
-              src="/26/stl-biz-journal-animated-ads-big-leagues-april-2026-04-10/160x600/static/160x600.jpg"
-              alt="alt"
-              sx={{
-                ...bannerStyles.image,
-              }}
-            />
-          </MuiLink>
-        </Grid>
         <Grid xs="auto">
           <Typography sx={{ ...bannerStyles.heading }}>300x600</Typography>
           <MuiLink
@@ -68,58 +50,6 @@ export default function Home() {
             <Box
               component="img"
               src="/26/stl-biz-journal-animated-ads-big-leagues-april-2026-04-10/300x600/static/300x600.jpg"
-              alt="alt"
-              sx={{
-                ...bannerStyles.image,
-              }}
-            />
-          </MuiLink>
-        </Grid>
-        <Grid xs="auto">
-          <Typography sx={{ ...bannerStyles.heading }}>300x250</Typography>
-          <MuiLink
-            component="a"
-            href="/26/stl-biz-journal-animated-ads-big-leagues-april-2026-04-10/300x250/html/300x250/"
-            target="_blank"
-            sx={{ ...bannerStyles.link }}
-          >
-            <Box
-              component="img"
-              src="/26/stl-biz-journal-animated-ads-big-leagues-april-2026-04-10/300x250/static/300x250.jpg"
-              alt="alt"
-              sx={{
-                ...bannerStyles.image,
-              }}
-            />
-          </MuiLink>
-
-          <Typography sx={{ ...bannerStyles.heading }}>320x50</Typography>
-          <MuiLink
-            component="a"
-            href="/26/stl-biz-journal-animated-ads-big-leagues-april-2026-04-10/320x50/html/320x50/"
-            target="_blank"
-            sx={{ ...bannerStyles.link }}
-          >
-            <Box
-              component="img"
-              src="/26/stl-biz-journal-animated-ads-big-leagues-april-2026-04-10/320x50/static/320x50.jpg"
-              alt="alt"
-              sx={{
-                ...bannerStyles.image,
-              }}
-            />
-          </MuiLink>
-
-          <Typography sx={{ ...bannerStyles.heading }}>300x50</Typography>
-          <MuiLink
-            component="a"
-            href="/26/stl-biz-journal-animated-ads-big-leagues-april-2026-04-10/300x50/html/300x50/"
-            target="_blank"
-            sx={{ ...bannerStyles.link }}
-          >
-            <Box
-              component="img"
-              src="/26/stl-biz-journal-animated-ads-big-leagues-april-2026-04-10/300x50/static/300x50.jpg"
               alt="alt"
               sx={{
                 ...bannerStyles.image,
