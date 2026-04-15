@@ -57,6 +57,25 @@ export default function Home() {
             />
           </MuiLink>
         </Grid>
+
+        <Grid xs="auto">
+          <Typography sx={{ ...bannerStyles.heading }}>300x250</Typography>
+          <MuiLink
+            component="a"
+            href="/26/kc-biz-journal-animated-ads-star-treatment-april-2026-04-10/300x250/html/300x250/"
+            target="_blank"
+            sx={{ ...bannerStyles.link }}
+          >
+            <Box
+              component="img"
+              src="/26/kc-biz-journal-animated-ads-star-treatment-april-2026-04-10/300x250/static/300x250.jpg"
+              alt="alt"
+              sx={{
+                ...bannerStyles.image,
+              }}
+            />
+          </MuiLink>
+        </Grid>
       </Grid>
     </Container>
   );
