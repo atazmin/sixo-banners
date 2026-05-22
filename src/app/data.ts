@@ -1,5 +1,10 @@
 export const data2026 = [
   {
+    name: "Display - 2026 Brand Refresh - 05-22",
+    dir: "/26/display-2026-brand-refresh-05-22/",
+    download: "/26/display-2026-brand-refresh-05-22/Archive.zip",
+  },
+  {
     name: "STL Biz Journal Animated Ads - Big Leagues - April 2026 - 04-10",
     dir: "/26/stl-biz-journal-animated-ads-big-leagues-april-2026-04-10/",
     download:
