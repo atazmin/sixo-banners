@@ -1,6 +1,6 @@
 export const data2026 = [
   {
-    name: "Display - UNIFY Grand Opening (St. Louis & Arkansas) - 06-04",
+    name: "Display - UNIFY Grand Opening (St. Louis & Arkansas) - St. Louis - Des Peres, on Manchester Road - 06-04",
     dir: "/26/display-unify-grand-opening-st-louis-arkansas-06-04/",
     download:
       "/26/display-unify-grand-opening-st-louis-arkansas-06-04/Archive.zip",

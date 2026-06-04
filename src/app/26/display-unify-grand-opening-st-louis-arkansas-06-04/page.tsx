@@ -17,7 +17,7 @@ export default function Home() {
 
   return (
     <Container maxWidth={false} disableGutters={breakpointUpMd}>
-      <Breadcrumbs pageName="Display - UNIFY Grand Opening (St. Louis & Arkansas) - 06-04" />
+      <Breadcrumbs pageName="Display - UNIFY Grand Opening (St. Louis & Arkansas) - St. Louis - Des Peres, on Manchester Road - 06-04" />
       <Grid container rowSpacing={8}>
         <Grid xs={12}>
           <Typography sx={{ ...bannerStyles.heading }}>728x90</Typography>
