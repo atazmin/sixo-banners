@@ -1,5 +1,29 @@
 export const data2026 = [
   {
+    name: "Display HTML - Arkansas Brand & CBFC Promo (Q2 2026) - Arkansas Brand - 06-22",
+    dir: "/26/display-html-arkansas-brand-cbfc-promo-q2-2026-arkansas-brand-06-22/",
+    download:
+      "/26/display-html-arkansas-brand-cbfc-promo-q2-2026-arkansas-brand-06-22/Archive.zip",
+  },
+  {
+    name: "Display HTML - Arkansas Brand & CBFC Promo (Q2 2026) - Arkansas CBFC Promo - 06-22",
+    dir: "/26/display-html-arkansas-brand-cbfc-promo-q2-2026-arkansas-cbfc-promo-06-22/",
+    download:
+      "/26/display-html-arkansas-brand-cbfc-promo-q2-2026-arkansas-cbfc-promo-06-22/Archive.zip",
+  },
+  {
+    name: "Display HTML - Display - CBFC Promo Refresh - KC & STL (Q2 2026) - KC - 06-22",
+    dir: "/26/display-html-display-cbfc-promo-refresh-kc-stl-q2-2026-kc-06-22/",
+    download:
+      "/26/display-html-display-cbfc-promo-refresh-kc-stl-q2-2026-kc-06-22/Archive.zip",
+  },
+  {
+    name: "Display HTML - Display - CBFC Promo Refresh - KC & STL (Q2 2026) - STL - 06-22",
+    dir: "/26/display-html-display-cbfc-promo-refresh-kc-stl-q2-2026-stl-06-22/",
+    download:
+      "/26/display-html-display-cbfc-promo-refresh-kc-stl-q2-2026-stl-06-22/Archive.zip",
+  },
+  {
     name: "Display - UNIFY Grand Opening (St. Louis & Arkansas) - St. Louis - Des Peres, on Manchester Road - 06-04",
     dir: "/26/display-unify-grand-opening-st-louis-des-peres-on-manchester-road-06-04/",
     download:
