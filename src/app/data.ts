@@ -1,5 +1,10 @@
 export const data2026 = [
   {
+    name: "Display - HIS Always On Refresh (Q2 2026) - 06-25",
+    dir: "/26/display-his-always-on-refresh-q2-2026-06-25/",
+    download: "/26/display-his-always-on-refresh-q2-2026-06-25/Archive.zip",
+  },
+  {
     name: "Display HTML - Arkansas Brand & CBFC Promo (Q2 2026) - Arkansas Brand - 06-22",
     dir: "/26/display-html-arkansas-brand-cbfc-promo-q2-2026-arkansas-brand-06-22/",
     download:
