@@ -1,5 +1,11 @@
 export const data2026 = [
   {
+    name: "Website GIFs - Los Angeles CBFC Promo (Q2 2026) - 07-23",
+    dir: "/26/website-gifs-los-angeles-cbfc-promo-q2-2026-07-23/",
+    download:
+      "/26/website-gifs-los-angeles-cbfc-promo-q2-2026-07-23/Archive.zip",
+  },
+  {
     name: "STL Biz Journal Ads - Big Leagues - July 2026 - 07-15",
     dir: "/26/stl-biz-journal-ads-big-leagues-july-2026-07-15/",
     download: "/26/stl-biz-journal-ads-big-leagues-july-2026-07-15/Archive.zip",
