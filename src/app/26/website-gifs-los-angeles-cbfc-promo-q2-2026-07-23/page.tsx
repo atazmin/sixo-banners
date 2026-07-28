@@ -91,6 +91,24 @@ export default function Home() {
             />
           </MuiLink>
         </Grid>
+        <Grid xs={12}>
+          <Typography sx={{ ...bannerStyles.heading }}>1600x1100</Typography>
+          <MuiLink
+            component="a"
+            href="/26/website-gifs-los-angeles-cbfc-promo-q2-2026-07-23/1600x1100/html/1600x1100/"
+            target="_blank"
+            sx={{ ...bannerStyles.link }}
+          >
+            <Box
+              component="img"
+              src="/26/website-gifs-los-angeles-cbfc-promo-q2-2026-07-23/1600x1100/static/1600x1100.jpg"
+              alt="alt"
+              sx={{
+                ...bannerStyles.image,
+              }}
+            />
+          </MuiLink>
+        </Grid>
       </Grid>
       <Grid container rowSpacing={8} columnSpacing={5}>
         <Grid xs="auto">
