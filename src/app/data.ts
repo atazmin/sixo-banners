@@ -1,5 +1,10 @@
 export const data2026 = [
   {
+    name: "Display - AK Razorback CBFC Promo (Q3 2026) - 08-18",
+    dir: "/26/display-ak-razorback-cbfc-promo-q3-2026-08-18/",
+    download: "/26/display-ak-razorback-cbfc-promo-q3-2026-08-18/Archive.zip",
+  },
+  {
     name: "Display - Generic CBFC Promo Refresh (Q3 2026) - KC - 08-18",
     dir: "/26/display-generic-cbfc-promo-refresh-q3-2026-kc-08-18/",
     download:
