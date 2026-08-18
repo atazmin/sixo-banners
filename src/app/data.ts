@@ -1,5 +1,17 @@
 export const data2026 = [
   {
+    name: "Display - Generic CBFC Promo Refresh (Q3 2026) - KC - 08-18",
+    dir: "/26/display-generic-cbfc-promo-refresh-q3-2026-kc-08-18/",
+    download:
+      "/26/display-generic-cbfc-promo-refresh-q3-2026-kc-08-18/Archive.zip",
+  },
+  {
+    name: "Display - Generic CBFC Promo Refresh (Q3 2026) - non-KC - 08-18",
+    dir: "/26/display-generic-cbfc-promo-refresh-q3-2026-non-kc-08-18/",
+    download:
+      "/26/display-generic-cbfc-promo-refresh-q3-2026-non-kc-08-18/Archive.zip",
+  },
+  {
     name: "Website GIFs - Los Angeles CBFC Promo (Q2 2026) - 07-23",
     dir: "/26/website-gifs-los-angeles-cbfc-promo-q2-2026-07-23/",
     download:
