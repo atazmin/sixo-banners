@@ -1,5 +1,17 @@
 export const data2026 = [
   {
+    name: "Display - Chiefs Checking Promo - KC & STL - Q3 2026 - KC - 08-18",
+    dir: "/26/display-chiefs-checking-promo-kc-stl-q3-2026-kc-08-18/",
+    download:
+      "/26/display-chiefs-checking-promo-kc-stl-q3-2026-kc-08-18/Archive.zip",
+  },
+  {
+    name: "Display - Chiefs Checking Promo - KC & STL - Q3 2026 - STL - 08-18",
+    dir: "/26/display-chiefs-checking-promo-kc-stl-q3-2026-stl-08-18/",
+    download:
+      "/26/display-chiefs-checking-promo-kc-stl-q3-2026-stl-08-18/Archive.zip",
+  },
+  {
     name: "Display - AK Razorback CBFC Promo (Q3 2026) - 08-18",
     dir: "/26/display-ak-razorback-cbfc-promo-q3-2026-08-18/",
     download: "/26/display-ak-razorback-cbfc-promo-q3-2026-08-18/Archive.zip",
