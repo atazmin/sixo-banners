@@ -1,5 +1,10 @@
 export const data2026 = [
   {
+    name: "Display - LA Rams CBFC (Q3 2026) - 10-02",
+    dir: "/26/display-la-rams-cbfc-q3-2026-10-02/",
+    download: "/26/display-la-rams-cbfc-q3-2026-10-02/Archive.zip",
+  },
+  {
     name: "Display - Chiefs Checking Promo - KC & STL - Q3 2026 - KC - 08-18",
     dir: "/26/display-chiefs-checking-promo-kc-stl-q3-2026-kc-08-18/",
     download:
@@ -42,12 +47,14 @@ export const data2026 = [
   {
     name: "Display - Credit Card Always-On Refresh (Q2 2026) - 07-10",
     dir: "/26/display-credit-card-always-on-refresh-q2-2026-07-10/",
-    download: "/26/display-credit-card-always-on-refresh-q2-2026-07-10/Archive.zip",
+    download:
+      "/26/display-credit-card-always-on-refresh-q2-2026-07-10/Archive.zip",
   },
   {
     name: "Display - Share Certificates Refresh - Q2 2026 - 06-25",
     dir: "/26/display-share-certificates-refresh-q2-2026-06-25/",
-    download: "/26/display-share-certificates-refresh-q2-2026-06-25/Archive.zip",
+    download:
+      "/26/display-share-certificates-refresh-q2-2026-06-25/Archive.zip",
   },
   {
     name: "Display - HIS Always On Refresh (Q2 2026) - 06-25",
