@@ -1,5 +1,11 @@
 export const data2026 = [
   {
+    name: "Display - LA Rams Brand Campaign (Q4 2026) - 10-07",
+    dir: "/26/display-la-rams-brand-campaign-q4-2026-10-07/",
+    download:
+      "/26/display-la-rams-brand-campaign-q4-2026-10-07/Archive.zip",
+  },
+  {
     name: "Display - LA Rams CBFC (Q3 2026) - 10-02",
     dir: "/26/display-la-rams-cbfc-q3-2026-10-02/",
     download: "/26/display-la-rams-cbfc-q3-2026-10-02/Archive.zip",
